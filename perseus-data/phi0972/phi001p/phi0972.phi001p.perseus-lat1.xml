@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader status="new">
+    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="work">Poems</title>
@@ -33,7 +33,7 @@
         </fileDesc>
         <encodingDesc>
             <refsDecl>
-                <state delim="." unit="text"/>
+                <refState delim="." unit="text"/>
                 <refState unit="section"/>
             </refsDecl>
         </encodingDesc>
@@ -57,7 +57,7 @@
     <item>split composite text and converted to unicode</item>
       </change>--><change when="2014-08-01" who="Stella Dee">edited markup</change></revisionDesc>
     </teiHeader><text xml:lang="la"><body>
-<pb id="p.342"/>
+<pb xml:id="p.342"/>
 
 <milestone unit="section" n="1"/>
 <p><hi rend="italics">74 Poet. Lat. Min.</hi> iv, ed. Baehrens.
@@ -107,7 +107,7 @@ rend="italics">Baehrens:</hi> ardentes <gap/> fregerat <hi rend="italics"
 <l>Nolo ego semper idem capiti suffundere costum</l>
 <l part="M">nec noto<note>noto <hi rend="italics">Paulmier:</hi> toto <hi
 rend="italics">V.</hi></note> stomachum conciliare mero.</l>
-<pb id="p.344"/>
+<pb xml:id="p.344"/>
 <l>Taurus amat gramen mutata carpere valle</l>
 <l part="M">et fera mutatis sustinet ora cibis.</l>
 <l>Ipsa dies ideo nos grato perluit haustu,</l>
@@ -152,7 +152,7 @@ habet Scaliger.</hi></note></l>
 </quote></p>
 
 <milestone unit="section" n="8" />
-<pb id="p.346"/>
+<pb xml:id="p.346"/>
 <p><hi rend="italics">81 P.L.M.</hi>
 <quote rend="blockquote">
 <l>Parvula securo tegitur mihi culmine sedes</l>
@@ -194,7 +194,7 @@ rend="italics">Baehrens:</hi> sepulti <hi rend="italics">V.</hi></note></l>
 <l>Sic et membra solent auras includere ventris,<note>ventis <hi rend="italics">V.,
 corr. Riese.</hi></note></l>
 <l>quae penitus mersae cum rursus abire laborant,</l>
-<pb id="p.348"/>
+<pb xml:id="p.348"/>
 <l>verberibus rimantur iter; nec desinit ante</l>
 <l>frigidus, adstrictis<note>et frigidus strictis <hi rend="italics">V., corr.
 Reiske.</hi></note> qui regnat in ossibus, horror</l>
@@ -238,7 +238,7 @@ victa <hi rend="italics">V.</hi></note> cupidinibus.</l>
 <l>effluit et subitis rumoribus oppida pulsat.</l>
 <l>Nec satis est vulgasse fidem. Cumulatius exit</l>
 <l>proditionis opus famamque onerare laborat.</l>
-<pb id="p.350"/>
+<pb xml:id="p.350"/>
 <l>Sic commissa verens avidus reserare<note>verens reserare <hi rend="italics"
 >Fulgentius:</hi> ferens <gap/> seruare V.</note> minister</l>
 <l>fodit humum regisque latentes prodidit aures.</l>
@@ -284,7 +284,7 @@ prepare <hi rend="italics">V.</hi></note> mori nec cogere fata</l>
 <l part="M">ludat et hoc solum iudicet esse mare.</l>
 </quote></p>
 
-<pb id="p.352"/>
+<pb xml:id="p.352"/>
 <milestone unit="section" n="16"/>
 <p><hi rend="italics">89 P.L.M.</hi>
 <quote rend="blockquote">
@@ -326,7 +326,7 @@ resoluta parentis</l>
 <l>Iam dimitte tuos, Paean o Delphice, cycnos:</l>
 <l part="M">dignior haec vox est, quae tua templa colat.</l>
 </quote>
-<pb id="p.354"/>
+<pb xml:id="p.354"/>
 <milestone unit="section" n="19"/>
 <hi rend="italics">92 P.L.M.</hi>
 <quote rend="blockquote">
@@ -367,7 +367,7 @@ ire preces.</l>
 <l part="M">dic mihi, qui nummos non habet, unde petat.”</l>
 </quote></p>
 
-<pb id="p.356"/>
+<pb xml:id="p.356"/>
 <milestone unit="section" n="22"/>
 <p><hi rend="italics">95 P.L.M.</hi>
 <quote rend="blockquote">
@@ -416,7 +416,7 @@ perhaps corrupt:</hi> tremet <hi rend="italics"
 </quote></p>
 
 <milestone unit="section" n="26"/>
-<pb id="p.358"/>
+<pb xml:id="p.358"/>
 <p><hi rend="italics">99 P.L.M.</hi>
 <quote rend="blockquote">
 <l>Lecto compositus vix prima silentia noctis</l>
@@ -459,7 +459,7 @@ impedio <hi rend="italics">W.</hi></note> nullum iter expedio.</l>
 <l>Non ergo ut pecudes libidinosae</l>
 <l>caeci protinus irruamus illuc</l>
 <l>(nam languescit amor peritque flamma);</l>
-<pb id="p.360"/>
+<pb xml:id="p.360"/>
 <l>sed sic sic sine fine feriati</l>
 <l>et tecum iaceamus osculantes.</l>
 <l>Hic nullus labor est ruborque nullus:</l>
@@ -504,7 +504,7 @@ impedio <hi rend="italics">W.</hi></note> nullum iter expedio.</l>
 code <hi rend="italics">E.</hi></note>
 tribunal.</l>
 <l>Condit avarus opes defossumque invenit aurum.</l>
-<pb id="p.362"/>
+<pb xml:id="p.362"/>
 <l>Venator saltus canibus quatit. Eripit undis</l>
 <l>aut premit eversam periturus navita puppem.</l>
 <l>Scribit amatori meretrix, dat adultera munus:</l>
@@ -516,4 +516,3 @@ tribunal.</l>
 </body>
 </text>
 </TEI>
-</body></text></TEI>

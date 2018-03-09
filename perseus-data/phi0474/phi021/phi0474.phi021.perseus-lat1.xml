@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng" type="text">
+	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
 				<title>Respecting the Answers of the Soothsayers </title>
@@ -200,7 +200,7 @@ passed SGML validation
 					<reg>tum</reg>, inquam, tum vidi ac multo ante prospexi quanta tempestas
 				excitaretur, quanta impenderet procella rei publicae. <reg>videbam</reg> illud
 				scelus tam importunum, audaciam tam immanem adulescentis furentis,
-						nobilis<note><lemma>nobilis</lemma> mobilis <hi rend="italics"
+						nobilis<note><hi rend="bold">nobilis</hi> mobilis <hi rend="italics"
 						>Drechsler,</hi> nebulonis <hi rend="italics">K. Busche</hi> (<hi
 						rend="italics">Rosc. Amer.</hi> § 128; <hi rend="italics">Phil.</hi> ii, §
 					74)</note>, vulnerati non posse arceri oti finibus: erupturum illud malum
@@ -359,7 +359,7 @@ passed SGML validation
 					<reg>multae</reg> sunt domus in hac urbe, patres conscripti, atque haud scio an
 				paene cunctae iure optimo, sed tamen iure privato, iure hereditario, iure
 				auctoritatis, iure mancipi, iure nexi: nego esse ullam domum aliam privato eodem quo
-						quae<note><lemma>quo quae</lemma> quoq~: <hi rend="italics">P</hi>: quoque
+						quae<note><hi rend="bold">quo quae</hi> quoq~: <hi rend="italics">P</hi>: quoque
 						<hi rend="italics">rell.</hi></note> optima lege, publico vero omni
 				praecipuo et humano et divino iure munitam; <milestone n="15" unit="section"/> quae
 				primum aedificatur ex auctoritate senatus<note>senatus <hi rend="italics">codd.
@@ -387,9 +387,9 @@ passed SGML validation
 				locus, at mihi etiam parietes atque tectum; illi quam ipse privato iure tueretur,
 					mihi<note>at mihi <hi rend="italics">Garat.</hi></note> quam publice magistratus
 				omnes defenderent. <reg>quae</reg> quidem ego si aut per me aut ab aliis haberem,
-				non praedicarem apud vos, ne nimis gloriari viderer; sed cum<note><lemma>cum</lemma>
+				non praedicarem apud vos, ne nimis gloriari viderer; sed cum<note><hi rend="bold">cum</hi>
 					quae <hi rend="italics">GE</hi></note> sint mihi data a vobis, cum
-						ea<note><lemma>ea</lemma> iam <hi rend="italics">coni. Muell.</hi></note>
+						ea<note><hi rend="bold">ea</hi> iam <hi rend="italics">coni. Muell.</hi></note>
 				attemptentur eius lingua cuius ante manu eversa vos mihi et liberis meis manibus
 				vestris reddidistis, non ego de meis sed de vestris factis loquor, nec vereor ne
 				haec mea vestrorum beneficiorum praedicatio non grata potius quam adrogans
@@ -415,7 +415,7 @@ passed SGML validation
 					unit="section"/></p>
 			<p><reg>sed</reg> quoniam mea causa expedita est, videamus nunc quid haruspices dicant.
 					<reg>ego</reg> enim fateor me et magnitudine ostenti et gravitate responsi et
-						una<note><lemma>una</lemma> viva <hi rend="italics">k</hi></note> atque
+						una<note><hi rend="bold">una</hi> viva <hi rend="italics">k</hi></note> atque
 				constanti haruspicum voce<note>voce <hi rend="italics">om. PBGE</hi></note>
 				vehementer esse commotum; neque is sum qui, si cui forte videor plus quam ceteri qui
 				aeque atque ego sunt occupati versari in studio litterarum, his<note>iis <hi
@@ -618,7 +618,7 @@ passed SGML validation
 				hoc censoriis<note>censoriis <hi rend="italics">Bait.</hi>: censoris <hi
 						rend="italics">P1GE</hi>: censores <hi rend="italics">P2BMHbk</hi>: censorum
 						<hi rend="italics">vulg.</hi></note>, memoria multorum firmabo ac docebo:
-				agatur modo haec res, quod<note><lemma>quod</lemma> quam <hi rend="italics"
+				agatur modo haec res, quod<note><hi rend="bold">quod</hi> quam <hi rend="italics"
 						>Ern.</hi>: `quod referri necesse est <hi rend="italics">breviter dictum est
 						i. q.</hi> quod fieri necesse est, ut referatur' <hi rend="italics"
 						>Mueller</hi></note> ex eo senatus consulto quod nuper est factum referri ad
@@ -830,7 +830,7 @@ passed SGML validation
 					<milestone n="20" unit="chapter"/><milestone n="42" unit="section"
 					/><reg>hic</reg> vero de quo ego ipse tam multa nunc dico, pro di immortales!
 				quid est, quid valet, quid adfert, ut tanta civitas, si cadet,—quod di omen
-						obruant<note><lemma>obruant</lemma> avertant <hi rend="italics"
+						obruant<note><hi rend="bold">obruant</hi> avertant <hi rend="italics"
 					>M</hi></note>!—a viro tamen confecta videatur? qui post patris mortem primam
 				illam aetatulam suam ad scurrarum locupletium libidines detulit, quorum
 				intemperantia expleta in domesticis est germanitatis stupris volutatus; deinde iam
@@ -944,7 +944,7 @@ passed SGML validation
 				vestram e fluctibus illis servitutis, reviviscere memoriam ac desiderium mei vidit,
 				vobis se coepit subito fallacissime venditare; tum leges Iulias contra auspicia
 				latas et hic et in contionibus dicere, in quibus legibus inerat curiata illa lex
-				quae totum eius tribunatum continebat, quam<note><lemma>quam</lemma> quod <hi
+				quae totum eius tribunatum continebat, quam<note><hi rend="bold">quam</hi> quod <hi
 						rend="italics">Madv.</hi></note> caecus amentia non videbat.
 					<reg>producebat</reg> fortissimum virum, M. Bibulum; quaerebat ex eo, C. Caesare
 				leges ferente de caelo semperne<note>-ne <hi rend="italics">Hk</hi>: <hi
@@ -1061,7 +1061,7 @@ passed SGML validation
 				<reg>quae</reg> sunt occultiora quam eius qui in contione ausus est dicere iustitium
 				edici oportere, iuris dictionem intermitti, claudi aerarium, iudicia tolli? nisi
 				forte existimatis hanc tantam conluvionem illi tantamque eversionem civitatis in
-					mentem<note>in mentem <hi rend="italics">Hbk all.</hi>: imment&emacr; <hi
+					mentem<note>in mentem <hi rend="italics">Hbk all.</hi>: immentē <hi
 						rend="italics">P</hi>: imminentem <hi rend="italics">Bt</hi></note> subito
 				in rostris cogitanti venire potuisse. <reg>est</reg> quidem ille plenus vini stupri
 				somni, plenusque inconsideratissimae ac dementissimae temeritatis; verum tamen
