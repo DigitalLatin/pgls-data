@@ -1,0 +1,2950 @@
+AN. MANL. SEV. BOETII DE SYLLOGISMO HYPOTHETICO LIBRI DUO.
+LIBER PRIMUS.
+Cum in o.n nibusphilosophicedisciplinisediscendis atque tractandis summum vitæ positum solamen existimem, tum jocundius, et veluti cum quodam fructu etiam laboris arripio quae tecum communi­ canda compono. Nam et si ipsa speculatio veritatis sua quidam specie sectandaest, fit tamen amabilior cum in commune deducitur. Nullum enim bonum est
+quod non pulchrius elucescat, si plurimorum notitia comprobetur. Nam quod alias taciturnitatecompres­ sum, jamjamquesilentioperiturum,latius efflores­ cit,etoblivionisinteritu scientium participationede­ fenditur, fit quoque jocundior disciplina, cum inter ejusdem sapientiae conscios jubet esse sapientem : quod si accedat (ut tecum mihi nunc res est) ea quæ sponte jocunda suut in amicitiae participationem de­ duci, necesse est studii suavitatem quodam veluti dulcissimo caritatis sapore condiri. Nam cum id in se obtinet amicitia proprium munus, ut nolit ha­ bere solitarias cogitationes, tunc quod honeste quis­ que cogitat, nulli promptius, nisi quem diligit, ron­ fitetur. Quo factum est ut etiam si immensus labor coepto operi viam negabat, animus tamen ad effi­ ciendum quod aggressus fuerat tui contemplatione
+sufficeret. Quid enim magnum studiosus tui amor efficeret, si intra facilitatis terminos constitisset ? Quod igiturapud scriptores quidem Græcos perquam rarissimos strictim atqueconfuse,apudLatinos vero nullos reperi, id tuæ scientiæ dedicatum, noster et­ si diuturnus, cæpti tamen efficax labor excoluit. Nam cum categoricorum syllogismorum amplissime notitiam percepisses, de hypotheticis syllogismis saepe quaerebas, inquibusabAristotelenihil estcon­ scriptum. Teophrastus vero, vir omnis doctrinæ ca­ pax, rerum tantum summas exsequitur.Eudemus la­ tiorem docendi graditur viam, sed ita ut veluti quae­ dam seminaria sparsisse, nullum tamen frugis vi­ deatur extulisse proventum. Vas igitur,quantum in­ genii viribus et amicitiae tuae studio suffecimus. quae
+ab illis vel dicta breviter, vel funditus omissa sunt, elucidandadiligenteretsubtiliter persequendasusce­ pimus, in qua re superatas difficultatis praemium vero, si tibi munus implesse videar amicitiae, etsi non videar satisfecisse doctrinae. Omnis syllogismus certis et convenienter positis propositionibus con­ tinetur. Propositio vero omnis autcategorica est quas prasdicativa dicitur, authypotheticaquaeconditiona­ lis vocatur ; prasdicativa est in qua aliud praedicatur de alio, hoc modo : homo animal est, hic enim ani­ mal de homine praedicatum est; hypothetica est quae cum quadam conditione denuntiat esse aliquid si
+fuerit aliud, veluti cum ita dicimus :si dies est, lux est. Hypotheticæ autem propositiones ex categoricis constant, ut paulo posterius apperebit,quofit ut syl­ logismus qui ex categoricis propositionibus junctus est categoricus appelletur, id est praedicativus qui­ dem, qui vero ex hypotheticis propositionibus con­ stat, dicatur hypotheticus, id est conditionalis. Ut ergo horum syllogismorum differentia pervideatur, spectanda prius est eorum in propositionum natura discretio ; videtur enim in aliquibus propositionibus nihil differre praedicativa propositio a conditionali, nisi tantum quodam orationis modo ; velut si quis ita proponat, homo animal est, id ita si rursus enuntiet, si homo est, animal est: haec propositionesorationis quodammodo diversae sunt, rem vero non videntur significasse diversam. Primum igitur dicendum est
+quod praedicativa propositio vim suam non in condi­ tione,sedinsolapraedicationeconstituit,in conditio­ nali vero consequentiae ratio ex con ditione suscipitur. Rursus praedicativa simplex est propositio, conditio­ nalis vero esse non poterit, nisi ex praedicativis pro­ positionibus conjungatur, ut cum dicimus : si dies est, lux est ; dies est, atque lux est, duae sunt pro­ positiones praedicativae,id estsimplices ;ad hoc illud est, quo maxime declaraturutrorumque proprietas, quod praedicativa quidem propositio habet unum subjectum terminum, alterum praedicatum. Et id quod in praedicativa propositione subjicitur, illius suscipere videturnomen quod in eadem propositione praedicatur hoc modo, ut cum dicimus, homo ani o:al est, homo subjectum est, animal praedicatum, et bo-
+mo animalis suscipit nomen, cum ipse homo animal esse proponitur. At in his propositionibus quae con­ ditionales dicuntur non idem praedicationis est mo­ dus. Neque enim omnino alterum de altero praedica­ tur, sed id tantum dicitur esse alterum, si alterum
+fuerit,veluti cum dicitnusrsi peperit,cum viro con- A cubuit, non enim tunc dicitur ipsum peperisse id esse quod est cum viro concumbere, sed id tantum proponitur quod partus nunquam esse potuisset nisi fuisset cum viro c('ncubitus;quod si quando in una eademque propositionum proprietas incurrerit, tunc secundum modum enuntiatae propositionis intelli­ gendi ratiovariabitur hoc modo.Nam cum dicimus, homo animal est,propositionem facimus praedicati­ vam ; acsi ita proponamus,si homo est,aQima est, in conditionalem vertitur enuntiationem. In prsedi­ cativoigitur id spectabimus quod ipse bomo animal sit, id est nomen animalis in se suscipiat. In condi­ tionali vero illud intelligimus,quod si fuerit aliqua res quæ homo esse dicatur,necesse sit aliquam rem
+esse quae animal nuncupetur.Itaque propositio prae­ dicativa rem quam subjicit praedicatae rei suscipere nomen declarat. Conditionalis vero propositionis haec sententia,est,ut ita demum sit aliquid,si fuerit alterum,etiamsi neutrum alterius nomen suscipiat. Ita igitur propositionibus disgregatis exenuntiatio­ num proprietate syllogismi quoquevocabulum perce­ peru nt, utalii dican tur prædicati vi alii conditionales. Nam in quibus propositiones praedicativae sunt,eos praedicativos syllogismos vocamus. In quibus vero hypothetica propositio prima est (potest namque et assumptio et conclusio esse praedicativa),hi tantum per unius hypotheticae propotionis naturam hypo­ thetici et conditionales dicuntur.Acde simplicibus quidem, id est de praedicativis syllogismis duobus libellis explicuimus, quos de eorum constitutione
+confecimus. Post vero simplicium, syllogismorum disputationem ordo est ut de non simplicibusdisse­ ramus.Nonsimplices vero syllogismi sunt qui hypo­ thetici dicuntur, quos Latino nomine conditionales vocamus. Non simplices autem dicuntur, quoniam ex simplicibus constant, atque in eosdem ultimos resolvuntur, cum praesertim primae eorum propo­ sitiones vim propriae consequentiæ ex categoricis,id est ex simplicibus,capiant syllogismis,namque pri­ ma propositio hypothetici syllogismi,si dubitetur an vera sit, praedicativa conclusione demonstrabitur. Assumptioveroinpluribusmodistaliumsyllogismo­ rum praedicativa esse perspicitur, itemque conclu­ sio,veluti cum dicimus,si dies est, lucet; Atquidies est, haec assumptio praedicativa est, si quaeratur,
+praedicativo probabitur syllogismo, lucet; igitur consecuta est rursus praedicativa conclusio: super haec omnis conditionalis propositio ex prædicativis (ut dictum est) jungitur. Quod si ex his et fidem capiunt,et ordinem partium sortiuntur,necesseest categoricos syllogismos hypotheticis vim conclusio­ nis ministrare. Sed quoniam de hypotheticisloqui. mur, quid significet hypothesis praedicendum est: hypothesis namque,unde hypothetici syllogismi ac­ cepere vocabulum,duohus(utEudemo placet) modis dicitur:autenimtaleacqutrituraliquidperquamdam inter se consentiendum conditionem,quodfierinullo modo possit ut ad suum terminum ratioperducatur.'
+autinconditionepositaconsequentiaviconjunctionis vel disjunctionis ostE'ndilur.Ac prioris quidempro­ positionis exemplum est,veluti cum resomnes cor­ porales materiae forma'que concursu subsistere de­ monstraremus.Tuncenim,quod per rerum naturam fieri non potest,ponimus idomnem formae naturam a subjecta materia, si non re,saltem cogitationese­ paramus;et quoniam nihil ex rebus corporeis reli­ quum fit, demonstratum atque ostensum putamus eisdem convenientibus corporalium rerum substan­ tiam confici,quibus a sedisjunctisacdiscedentibus interimatur. In boc igitur exemplo posita consen­ tiendi conditione, ut id paulisper fieri intelligatur quod fieri non potest, ut formae a materia separen­ tur, quid consequatur intendimus, perire scilicet
+corpora, ut eadem ex iisdem consistere com probe­ mus. Nam quoniam interitus corporalium rerum sequitur, jure dicimus res omnes corporeas forma materiaqueconsistere.Sed hujusmodi propositiones quae ex consentientum conditione proveniunt,nihil his differunt quassimplicescategoricaeinstitutionis primi libri tractatus ostendit;quæ veroasimplicibus differunt illas sunt, quando aliquid dicitur esse vel non esse, si quid fuerit vel non fuerit. Hae semper cum conjunclionibus proponuntur,ut cum dicimus, si homo est, animal est,si ternarius est, impar est, vel caetera hujusmodi; haec enim ita proponuntur, ut si quodlibet illud fuerit, aliud consequatur; vel cum dicimus, si homo est, equus non est, rursus hic eodem modo proponitur in negatione,quo supe­ rius in affirmatione proponebalur;hic enim dicitur,
+si hoc est,illud non est;et ad hunc modum caeterae. Possuntautem aliquandoetiam hoc enuntiari modo, cum hoc sit,illud est.veluti cum dicimus,cumhomo est, animal est, vel cum homo est, equus non est; quae enuntiatio propositionis ejusdem potestatis est cujus ea quae hoc modo proponitur,si horno est,ani. mal est,:;i homo est,equus non est. Fiunt vero pro­ positiones hypotheticae etiam per disjunctionem ita, aut hoc est, aut illud est. Nec eadem videri debet haec propositio quae superius sic enuntiatur,si hoc est,illud non est.Haec enim non est per disjunctio­ nem,sed per negationem.Negatio vero omnis inde­ finita est,atqueideoet in contrariis, et in contrario­ rum medietatibus,et in disperatis fieri potest.Dispe­ rata autem ea voco quae tantum a se diversasunt,
+nulla contrarietate pugnantia, veluti terra, vestis, ignis,et caetera.Nam si album est,nigrum non est; si album est,rubrum nonest;si diociplinaest,homo non est. At in ea quae perdisjunctionem fit,alteram semper poni necesse est hoc modo,aut dies,autnox; quod si ea cuncta quae per negationem dici convenit ad disjunctionem transferamus,ratio non procedit. Quid enim si quis dicat,aut album est,aul nigrum, aut album est, aut rubrum, aut disciplina est, aut homo? fieri enim potest ut nihil sit horum.Igitur quoniam per disjunctionem propositio in certis tan­ tum rebus in quibus alterum eorum evenire necesse est ponitur,hoc autem per negationem separatio in
+omnibus etiam his quae suam etiam invicem naturam non perimunt poni potest, aperta ratione discreta est. Omnis igitur hypothetica propositio vel per connexionem fit (per connexionem vero ilium quo­ que modumqui per negationem fit esse pronuntio), vel per disjunctionem;uterque enim modus exsim­ plicibus propositionibus comparatur. Simplices autem propositiones sunt quus praedicativas primo institutionisCategoricaelibrodiximus.Haecverosunt cum aliquid de aliquo praedicatur,velaffirmando,vel negando,ut dies est, lux est.At si his mpdiacondi­ tio interveniat, fiet, si dies est, lux est, fitque una hypothetica propasitio exduabus categoricis juncta. Sed quoniam omnissimplex propositio vel affirma­ tiva, vel negativa esl,quatuor modis per connexio-
+nem fieri hypotheticae propositiones possunt, aut enim ex duabus affirmativis,aut ex duabus negati­ vis,aul ex affirmativa et negativa,aul ex negativaet affirmativa.Harum omnium exemplasutJdendasunt, quod id quod dicimus clarius innote.scat.Ex duabus affirmativis,si dies est,lux est;ex duabus negativis, si non est animal, non est homo ; ex affirmativa et negativa, si dies est, nox non est. Ex negativa et atfirmativu, si dies non est, nox est. Sed quoniam dictum est idem signiticari si conjunctione et cum, quando in hypotheticis propositionibus ponitur,duo­ bus modis conditionales fierit possunt: uno secun­ dum accidens, altero ut habeant aliquam naturae consequentiam. Secundum accidens hoc modo, ut cum dicimus, cum ignis calidus sit, coelum rotun­ dum est. Non enim quia ignis calidus est, cælum
+rotundum est, sed id haec propositio designat,quia quo tempore ignis calirJ.us est,eodem tempore coelum quoque rotundum est.Suntautem aliae quae habent ad se comequentiam naturae;barumquoque duplex modus est,unus cum necesseestconsequi,eatamen ipsa consequentia non per terminorum positionem fit jalius vero cum fit consequentia per terminorum positionem.Ac prioris quidem modi exemplumest, ut ita dicamus,cum homosit,animal est, haecenim consequentia inconcussa veritate est subnixa. Sed non idcirco animal est quia homo est,non enim id­ circo genusestquiaspeciesest,sed fortasse agenere principium ducitur,magisqueessentiæ causa ex uni­ versalibus trahi potest,ut idcirco sit homo quia ani­ mal est. Causa enim speciei genus est, at qui dicit:
+cum homo sit, animal est, rectam ac necessariam consequentiam facit ;per terminorum vero positio­ nem talis consequentia non procedit. Sunt autem aliae hypotheticae propositiones in quibus et conse­ quentia necessaria reperietur,etipsius consequentiæ causam terminorum positio facit hoc modo:si terræ fuerit objectus,defectio lunae consequitur;hæc enim consequentia rara est,et idcirco defectio lunas con­ sequitur,quia terrae intervenit objectus. Istæ igitur sunt propositiones certae atque utiles ad demonstra­ tionem.Partimur autem propositiones hypotheticas in duas ac simplices propoaitiones,etprimamquidem cui conjunctio proponitur praecedentem dicimus,se.
+cundam veroconsequentem,ut inhac,sidiesest,lux est, praecedentem dicimus eam quae dicit, si dies est, consequentem vero partem, lux est. In disjun­ ctivis vero propositionibus ordo enuntiandi praece­ dentem vel consequentem facit,ut aut dies est,aut nox est.Nam quas prima proponitur praecedens,qua8 posterior consequens appellatur.Ac de partibus qui­ dem hypotheticarum propositionum ista sufficiunt. Illud nunc expediendum videtur,quod etiam abAri­ stolete dicitur.Idem cum sit et non ?it,non necesse est idem esse, veluti cum a, si idcirco necesse est esse
+b
+; idem
+a
+si non sit, non necesse est esse
+b,
+idcirco quoniam non est a. Ad hujusmodi vero rei demonstrationem impossibilitatis diffinitio praemit­ tenda est, quae est hujusmodi. Impossibile est quo
+posito aliquid falsu m atque impossibilecommillatur eo nomine quod impossibile primitus propositum fuit, Sit igitur positumcum sila esse
+b,id
+est hanc inter
+a
+et
+b
+esse consequentiam, ut. si concessum fuerit esse a,necesse sit concedere esse b.ltaque propona­ tur si
+a
+est, b est, dico quia si
+a
+non fuerit,non ne­ cesse est esse b.Ac primum quae sit propositionum consequentia consideremus.Si enim fuerit tale con- , junctum, ut si sit a, etiam
+b
+esse necesse sit; si b non fuerit,etiam
+a
+non esse necesse est;quod ex tali demonstratione cognoscitur,si sit a,necesse sit esse b, dico quia si
+b
+non sit,
+a
+non erit. Ponitur enim non esse b,et sit si fieri potest a. Sed dictum est,si sit
+a,
+necessario concedi esse
+b.
+Cum sit igitur, b, non erit
+b.
+Nam quia ponimus non esse b,non erit b, quia vero ponimus esse a, erit
+b;
+erit igitur
+b
+ac
+non erit,quod tJeri non potest.Impossibile est igitur non esse
+b
+et esse a.Et demonstratione quidem firma sic utimur.Exemplo vero id clariusinnotescet:nam si est homo,est animal; si non est animal,non est homo. Non vero si homo non fuerit,animal non est, multa enim sunt animalia quae homines non sunt. Itaque in consequentia propositionis conjunctæ,si est primum, secundum esse necesse est, si secun­ dum non fuerit,non erit primum;at verosi primum non fuerit, non necesse est ut non sitsecundum,nec vero necesseest utsit,id enim demonstrandum esse dudum nobis propositum fuit.Sit enima,idque cum fit necesse sit esse b, dico quia si non fuerit a,non necesse est esse b,nec iddico quoniam sinon fuerit a, necesse est non esse
+b,
+sed tantum non necesse
+est esse
+b
+; nam quiapaulo antedemonstratum est, si
+b
+non fuerit, necessario non esse a, si eumdem, b,terminum non esse contingerit,non erit a Sed si cum non sit a,necesse est esse
+b,idem b
+ex necessi­ tate erit,ac non erit.Nam quiab terminum nonesse contingit,non erit Quia vero si a non fuerit,6 esse necesse erit,idemigitur b terminus erit ac DOn erit, quod est impossibile. Ex his igitur demonstratum esse arbitror,in consequentia hypothetica proposi­ tionp, si sit primum consequi ut sit secundum ; si non sit secundum, consequi ut non sit primum; si vero non sit primum, non consequi ut si vel non sit secundum.Nam et illud apparet,si sit secundum
+non consequi ut sit vel non sit primum, ut in ea j propositione quae est, si homo est, animal est, si animal sit, non consequitur ut si homo vel non sit: quod si primum non sit,non consequitur ut neces­ sario sit vel non sit secundum; velut in eadem pro­ positione,si homo non fuerit,non necesse est ut aut sit animal,aut non sit.Ex omnibus igitur solae duae consequeatiaestabilessuntetimmutabiliterconstant: si sit primum, ut consequatur ut sit secundum; si secundum non fuerit,necessario consequi ut non sit primum.His itaque determinatis, illud adjungam, quoniam cum omnis hypothetica propositio simplex non sit,atque ex aliis propositionibus conjungatur, sunt tamen hypothoticaB quaedam quae, si reliquis conditionaiibuscomparentursimplicesesistimentur.
+Omnisenim conditionalis propositio aut connexa est aut disjuncta;haec vero quoniam ex praedicativis co­ pulantur,in connexis propositionibua quatuor fieri necesse est hujus copulationis modos.Namque hy­ pothetica propositio aut ex duabus simplicibus con­ juncta est,et vocatur simplex hypothetica, ut haec ; si
+a
+est,b est,veluti cum dicimus,si homo est, ani­ mal est, homo enim est, et animal est, duae sunt simplices propositiones;aut ex duabus hypotheticis copulatur,et dicitur composita,veluti cum dicimus, si cum
+a
+est, b est, cum sit c,est d,veluti cum tali propositione enuntiamus,si cum homo est, animal est, cum sit corpus erit substantia. Etenim si cum homo est,animal est, una est hypothetica;alia vero, cum sit corpus substantia est,ex quibus conjungitur una propositio quae composita nuncupatur. Aut ex
+una simplici et ex una hypothetica copulatur, velut hasc : si
+a
+est cum sit
+b,
+est
+c,
+veluti cum dicimus, si homo est cum sit animal,est substantia.Namque homo est simplex propositio, cum sit animal esse substantiam,hypothetica ex ipsa consequentia con­ ditionis ostenditur. Aut ex priore hypothetica et simplici posteriore committitur, ut cum dicimus:si cum sit a,est 6, erit et c, veluti hoc modo, si cum sit homo,animal est et corpus,hypothetica namque est ea quae proponit, si cum sit homo, animal est; simplex posterior quae hanc hypotheticam proposi­ tionem sequitur,id est corpusesse:hsec quoque quo­ niam non ex simplicibus copulatæ sunt,compositae dicuntur. Sed priores quidem quae ex simplicibus propositionibus constant, et simplices hypotheticæ
+nuncupantur, in duobus terminis constitutae sunt. Terminos autem nunc partes propositionissimplices quibus junguntur appello.Quae vero compositae hy­ potheticae sunt,illae quidem quae exduabushypothe­ ticis constant,quatuor terminis copulatae sunt;illae vero quae ex hypothetica et simplici,vel ex simplici atque hyputheticaconjunctaesunt haetribusterminis conjunctae sunt.Harum igitur quae sunthypotheticae simplices velcompositaBdifferentiaesimilitudinesque dicendæ sunt.Nam quae ex simplicibus copulantur, si ad eas quae ex bypotheticis duabus junctae sunt comparentur, consequentia quidem eadem est, et proportio manet,tantum termini duplicantur. Nam
+quem locum in his propositionibus hypotheticis quae exsimplicibusconstantipsae simplices propositiones lenent,eumdem in his propositionibus qUi je sunt hy­ potheticae ex bypotheticis con?tantes,illae conditio­ nes tenent quibus ill'IJ propositiones inter se junctae et copulatae esse dicuntur.Nam in hac propositione quae dicit, si est a,est 6, et in ea quae dicit, si cum sit a,est b,cum sit
+c,
+est
+d,
+quem locum in ea pro­ positione quas ex duabus simplicibus continetur te­ net,ea quae prior est,si est a, eumdem locum tenet in ea propositione quæ ex duabus hypotheticis pro­ positionibus copulatur,ea quae prior est,si cum est a,est £.Hic namque duarum inter se propositionum conjunctionis conditione facta est consequentia. Itemque quam vim obtinetexutrisquepropositioni-
+bus copulatae hypotheticaesequens portio quae infer­ tur,id est esse b,earndem vim obtinet propositione est hypotheticis juncta ea quae sequitur,id est cum eit
+c,
+esse
+d;
+atque id tantum differt, quia cum in prima propositione ex simplicibus juncta propositio propositionem sequatur,in secunda propositione ex h:tpol heticis juncta conditio consequentiæ conditio­ nisconsequentiamcomilatur.NihileQim estaliud di­ cere si a est,b esl,qllam ei propositioni per quamdici­ mus esse aillamessecomite perquam besse iprædi. camus ; et in ea propositione quae exhypotbeticis in­ ducta est cum dicimus, si cum situ, est b, cum sit
+c
+esse d,illud dicitur, ei consequentiae quae inter
+a
+et
+b
+est, eam esse consequentiam comitem quae est inter
+c
+et d,ita ut si sequetur, posito
+a
+esse
+b,
+consequatur sine dubio
+c
+posito esse d.At in his propositionibus
+quæ ex simplici et hypothetica consistunt, illa ra­ tio est ut vel propositionem conditio consequentiae sequatur, vel conditionem consequentiae proposito comitetur. Nam cum dicimus, si est a, cum sit
+b,
+esse c,id intelligi volumus,ei propositioni perquam dicimus, si est a, consequi eam conditionem per quam dicimus, cum sit b, esse c, id est ut si est a, necesse sit
+b
+termino comitem esse
+c
+terminum : cum vero dicimus,si cum est a, b est,
+c
+esse, nihil aliud intelligi volumus,nisi duarum inter se conse­ quentiam propositionum alterius propositioniscon. sequi veritatem, ut si habeant inter se consequen­ tiam
+a
+atque b, necesse sit hanc conditionem con­ sequentiae propositionis ejus per quam dicimus esse
+c
+consequi veritalem, id est, si necesse est
+a
+po-
+sito esse
+b,
+necesse sit etiam
+c
+esse. Similes igitur syllogismi fient earum propositionum quae ex sim­ plicibus et earum quae non ex simplicibus utrisque- junguntur. Earum vero quae ex una simplici et ex altera hypothetica copulantur,diversi quidem a su­ perioribus,ipsi tamen inter se simile:; fiunt;nec in­ terestutrum primahypothetica,secunda sitsimplex, ante converso prima simplexsecu nda hypotheticaad syllogismorum modos,nisi forsitan ad ipsius tantum ord i !lis com 'n utationern cumigitur demonstrata fue­ rilearum propositionum quæ ex simplicibus constat, ratio syllogismorumdemonstrata videturesse earum ■_ quoquepropositionumquaahypotheticiscommittun­
+tur;et cum quarumlibet earum propositionum quae ex simplici et hypothetica constant syllogismorum natura perspecta sit,etiam conversi ordinis proposi­ tionum naturaquales faciat symllogismos ostenditur. Est etiamaliaspecies propositionum inconnexione positarum,quae media quodammodo sit earum pro­ positionum quae ex hypotbeticissimplicibusquejun­ guntur,et earum quae ex duabus hypotheticis copu­ iantur.Nam si ad numerum respicias terminorum, quasi ex tribus terminis constant;el si ad conditio­ nales animum ref'eras,quasiex duabus conditionali­ bus videntur esse compositae:quae medietas evenit id­ circo quoniam unus in his terminis communis utris­ que conditionalibus invenitur.Proponuntur vero hae vel per primam figuram,vel per secundam, vel per tertiam. Per primam hoc modo : si est
+a,
+est 6, et
+si est b,est c,igitur b in utrisque numeratur,et sunt quidem tres termini hi,
+a
+est, 6 est,
+c
+est, dua; vero conditionales hoc modo : si est a, est b, si est b,est c,namque
+b
+utrisque communis est: atque ideo inter propositiones quæ ex tribus terminis, et eas quæ ex quatuorcomponunturmediae sunthujusmodi propositiones.Per secundam vero figuram proponi­ tur hoc modo : si est
+a,
+est 6, si non est
+a,
+est c. Per tertiam vero figuram sic : est
+b,
+est a, si est c,non est a.Ac de connexis quidem ista sufficiant. Disjunctivae propositiones semper ex contrariis constant, ut hoc:aut est a, aut 6 est, altero enim posito alterum tollitur,et interempto altero ponitur alterum. Nam si est
+a,
+non est b.Si non est
+a,
+est
+b
+Eodem modo etiam si sit b,non erit a, si non
+est b,erit a.His igitur expeditis,ad connexas rever­ tamur, in illis enim vel propositio propositionem, vel conditio conditionem,vel propositio conditionem, vel conditio propositionem sequitur. Dicendum est igitur quae propositiones quarum propositionum con­ sequentes esse videantur, quae contrarietatis modo quam longissime a se differant,quce vero oppositio­ nis contradictionedissentiant.Simplicium namque, id est praedicativarum propositionum, alia; praeter modum proponuntur, alia: cum modo ; praeter mo­ dum sunt quaecunque purum esse significant hoc modo, dies est, Socrates philosophus est, et quae similiter proponuntur.Quaevero cum modosunt,ita proponuntur : Socrates vere philosophus est. Hic enim vere modus est propositionis : sed maximas
+syllogismorum faciunt differentias haec propositio­ nes cum modo enuntiatae, quibus necessitatis aut possibilitatisnomenadjungitur necessitatishocmo­ do,cum dicimus ignem necesse est calere; possibi­ litatis.ut cum ita proponimus,possibile est a Graecis superari Trojanos. Quo fit ut omnis propositio aut inesse significet,aut inesse necessario,aut cum non sit aliquid, tamen enuntiet posse contingere; qua­ rum quidem ea quae inesse significat simplex est, neque in nullas partes alias deduci potest. Ea vero quae ex necessitate aliquid inesse designat, tribus dicitur modis:uno quidem quo ei similis est propo­ sitioni quae inesse significat, ut cum dicimus, ne-
+cesse est Socratem sedere, dum sedet. Haec enim eamdem vim obtinet ei qui dicit, Socrates sedet. Alia vero necessitatis significatio est,cum hoc modo proponimus, hominem necesse est cor habere dum est atque vivit:hoc enim significare videtur hæc di­ ctio, quoniam tandiu necesse sit habere quandiu habet, sed quoniam eum necesse est tandiu habere quandiu fuerit ille qui babel.Alia vero necessitatis significatio est universalis et propria, quo absolute praedicat necessitatem, ut cum dicimus, necesse est Deum esse immortalem,nulla conditione deter­ minationis opposita. Possibile autem idem tribus dicitur modis : aut enim quod est possihile esse di­ citur,ut possibile est Socratem sedere, dum sedet; aut quod omni tempore contingere potest, dum ea res permanet cui aliquid contingere posse proponi-
+tur,ut possibile est Socratem legere,quandiu enim Socrates est,potest legere; item possibiie est quod absolute omni tempere contingere potest, ut avem volare.Ex bis igitur apparet alias propositiones esse inesse significantes, alias necessarias, alias con­ tingentes atque possibiles, quarum necessariarum contingentiumque cum sit trina partitio,singulæ ex iisdem partitionibus ad eas quae inesse significant referuntur. Restant igitur duae necessariae et duae contingentes,quae cum ea quæ inesse significat enu­ meratæ,quioque omnes propositionum faciuntdif­ ferenliasOmnium vero harum propositionum aliae sunt affirmativæ, aliae negativa?. Affirmativa inesse significans est quae dicit,Socrates est.Negativaquae proponit, Socrates non est. Necessarium vero pro­
+positionum affirmativarum duae videnturesse nega­ tiones, una contraria, altera vero opposita. Ejus namque,quæ dicit necesse esse a,quolibet modo ex utrisque qui dicit, sunt, aut ea est negotio quae di­ cit, necesse est non esse a, aut ea quæ dicit, non necesse est esse
+a.
+Quarum quidem ea quoe dicit, necesse est non ei-se a, contraria est ei quae dicit, necesse est esse n.Ut.raeque enim falsæ poterunt in­ veniri, veluti cum dicimus, necesse est Socratem legere, necesse est Socratem non legere, utraque mentitur.Nam et cum legit,non ex necessitate legit, et cum non legit, nulla ne legat necessitate con­ stringitur, sed est utrumque possibile. At vero ea quae dicit, non necesse esse a,opposita est ei quae proponit.necesse est esse a;una enim semper vera
+est,semper falsa altera reperitur.In contingentibus vero atque possibilibus eadem ratio est.huic enim quae dicil,contingit esse a, tum ea videtur objecta quae dicit,contingit non esse a, tum ea quae propo­ nit, non contingit esse
+a.
+Atque ea quidem quae di­ cit, contingit non esse a, contingens negatio, nun­ cupatur, veraqne esse potest cum ea affirmatione quae dicit, contingit esse
+a,
+veluti cum dicimus, contingit sedere Socratem,contingit non sedereSo­ cratem.Et baecquidem non dicuntur esse contrariæ, quoniam simul verae esse possunt.At vero oppositae sunt quoties ipsum contingens negatur,ut si adver­ sus eam quae dicit, contingit esse a, ea opponatur
+quae dicit, non contingit esse a; id enim ista signi-. ficat omnino non posse contingere. Quae cum ita sint,cumque inesse significantes propositiones prae­ ter ullum dicuntur modum,his ad esse, juncto ad­ verbio negativo, negatio plena perficitur. Quæ vero cum modo proponuntur si necessariaesint et ad esse negatio jungatur,ut ea quae dicii, necesse est non esse, fit necessaria negatio. Si vero ipsi necessario negatio præponatur, fit ncessarii negatio affirma­ tioni vehementer opposita,ut ea quæ dicit non ne­ cesse esse. Item in contingentibussiad esse negatio præponatur,fit contingens negatio,ut ea quae dicit, contillgit non esse a.Si vero ipsi contingenti negatio jungaturfitcontingentisnegatiocontingentiaffirma­ tioni vehementer opposita,ut ea quae dicit,non con-
+tingit esse.Sed quoniam omnis propositio,aut uni- : versalisautparticularisautindefinitaaut singularis proponitur universalis hoc modo: Omnis homo legit, particularis sic:Quidam homo legit,singularis sic: Socrates legit,indefinita sic:Homo legit,necesse est uy sicut in Categoricorum Syllogis norum institutione monstratum est,illæ sibi maximev!deanturoppositse quaecunque vel universale affirman t,8i particulariter denegatur,vel universale denegant,piparticutariter affirmatur,et quæ singulares sunt,si illa quidem in affirmatione posita,illa vero in negatione.Quse cum ita sint,si hæc eadem ratio ad contingentes et neces­ sarias referatur, idem in necessariis et contingen­ tibus invenitur,ut si quis dicat,omnem
+a
+terminum esse necesse est,aliusque negat dicens,non necesse
+est omnem
+a
+terminum esse,fecit oppositam nega- tionem.Et si dicat aliquis, contingit omnem
+a
+ter­ minum esse, idque aliquis neget, non contingit omnem
+a
+terminum esse, fecit oppositam negstio­ nem;in utrisque enim negatio et modum removet, et significationem universalitatis exstinguit. Atque hoc quidem in simplicibus et categoricis proposi­ tionibusevenirenecesse est,de quarum natura dili­ gentius persecuti sumus in his vo!uminibus,quae in secundae editionis expositione HEpl
+ἑρμηνείας
+inscri­ psimus.Si quia igitur propositionum omnium condi­ tionalium numerum inquirat,quæ eratexcategoricis poterit invenire;ac primum in connexis ex duabus simplicibus inquirendus est hoc modo. Nam quo­ niam propositio simplex hypothetica ex categoricis duabus jungitur,una earum vel inesse significabit,
+vel contingere esse simpliciter,vel necesse esse du­ pliciter;quod si sunt affirmativae,quinquies,affirma­ tiva enuntiatione proponuntur.Sed quoniam omnis affirmatio habetoppositamnegationem,rursusquin­ quies negativa enuntiatio poterit pronuntiari.Erunt igitur in prima propositione, quae una pars est hy­ potheticae propositionis,in negatione etaffirmatione constitutae modorum propositiones decem.Secunda etiam propositio,quæ pars est hypotheticæ,totidem affirmationibus et negationibus proponi potest;erunt igitur ejus quoque enuntationes decem. Sed cum prima propositio secundæ propositioni quadam con­ sequentia copuletur,utuna hypothetica fiat,omues
+decemaffirmativaeacnegativaepropositionesomnibus decem affirmativis negativisque propositionibus ap­ plicabuntur. Itaque complexae centum omnes effi­ ciunt propositiones,h3e quae connexæex simplicibus conjunguntur.Secundum hunc vero modum potest propositionum numerus inveniri etiam in his propo­ sitionibus quæ ex categoricaethypothetica copulan­ tur,vel quæ ex duabus conditionalibus fiunt. Nam quae ex conditionali et categorica constant,vel quae e diverso ex tribus categoricis junctae sunt, quod si duarum intersepraedicativarum affirmatione vel negatione complexio vel esse, vel necessario vel contingenter esse, quinque modos centum efficit complexiones,quoniam tertia propositio affirmativa erit vel negativa, et si affirmativa quin'lue modis,
+vel inesse significans,vel necessario inesse duplici­ ter, vel contingenter inesse dupliciter. Itemque to­ tidem negabiturmodissimul non amplius quam de­ cies proponetur. Quo fit ut tertia propositio cum duabus superioribus,centum inter se modis copula­ tis atque complexis, juncta atque commissa mille omnes faciatcomplexiones.Centum namqueduarum propositionum modicum decem modis tertiæ propo. sitionis complicati mille perficiunt.Decies enim cen­ tum mille sunt. Rursus quoniam ex duabus hypo­ theticis juncta conditionalis quatuor categoricisco­ pulatur, et duae inter se primæ categoricas centum complexionibus jungebantur, necesse est ut poste­ riores quoque dua? centum complexionibus conne­ ctantur;quod si centum superiorum propositionum
+categoricarum modi, centum posteriorum catego­ ricarum medis complicentur,fient decem milia com­ plexiones.In illis autem propositionibus quæ tribus variantur liguris,siquidem medius terminus simili­ ter et in prima et in secunda hypothetica propona­ tur,mille erunt complexiones,ad earum similitudi­ nem quæ ex tribus categoricis connectantur; tunc enim unus atque idem terminus in utrisque tres ne­ que amplius faciet enuntiationes. Similiter vero in utrisque proponitur hoc modo:si est a,est b, si est b,est c,hic enim
+b
+terminus, et ad
+a
+terminum, et ad
+c
+positus est,inesse significans.Idem in necessa­ riis et contingentibus intelligendum.At si ita propo­ natur:si est a,est b,et si necesse est esse b, est vel non est
+c,
+duae propositiones conditionales, id est quatuor praedicativae fiunt.Quo fit ut secundum eas
+quae ex preedicativis quatuor connectuntur, aecem millia faciant complexiones,atque hi numeri tam in prima quam in secunda vel tertiafigura sunt inspi­ ciendi.Et nos quidem quantus esse propositionum numerusposset,ascripsimus,nunquam tamen dissi­ militer terminus medius enuntiatur;namque ut fiat extremorum conclusio, medius terminusintercedif, cujuscommunitasextremaconjungit.Quod Ei medius diversis modis in utraque propositione dicatur,nec connectuntur extrema, atque ideo ne syllogismus quidem fieri ullus potest, cum praesertim ne una quidem propositio dici possit in qua mediustermi­ nus dissimiliter enuntiatur.Longe autem multiplex
+PATROL. LXIV..
+27
+numerus propositionum existeret,si inesse signifi- x cantes et necessarias et contingentes affirmativas negativasque proposiliones per universales et parti­ culares, vel oppositas, vel subalternas variaremus ; sed id non convenit, quia conditionalium termini propositionum infinito maxime enuntiantur modo. Atque ideo supervacuum judicavi determinatarum secundum quantitatem propositionum quaereremul­ titudiuem, cum determinate conditionales proponi non soleant; fere autem hypotbeticæ propositiones nec per necessitatem quidem vel per contingens enuntiantur,sed illae maxime in usum cullocutionis ducuntur,quae inesse significant.Omnes vero neces­ sariam consequentiam tenere volunt,etqua: inesse significant, et quibus necessitas additur,et quibus
+prædicatio possibilitatis aptatur, etenim terminus applicatur.Necessitas vero hypothoticae propositio­ nis et ratio earum propositionum ex quibus jun­ guntur inter se connexiones,consequentiam quaerit, ut cum dico:Si Socrates sedct et vivit,neque sedere eum,neque vivere necesse est;sed si sedet, necesse est vivere. Item cum dicimus, sol movetur, neces­ sano verrit ad occasum,tantumdem significat quan­ tum, si sol movetur, venit ad occasum. Necessitas enim propositionis in consequentiae immutabilitate consistit.Item cum dicimus, si possibile est legi li­ brum, possibile est ad tertium versum pervenire, rursus necessitas consequentiæ servata est;nam si possibileest legi librum, necesse est id possibile esse, ut ad tertium versum perveniatur.Opponuntur au­ tem .hypotheticis propositionibus, illæ solæ quæ
+earum substantiam perimunt.Substantia vero pro­ positionum hypotheticarum in eo est,utearum con­ sequentiae necessitas valeat permanere.Si quis ergo recteconditionali propositioni repugnabit,id efficiet ut earum destruat consequentiam, veluti cum ita dicimus,si est a,est b,non in ea repugnabit si mon­ stret,aut non esse a,aut non esse b,sed posito qui­ dem
+a,
+ostendit non statim consequi esse
+b,
+sed posse
+a,
+etiamsi
+b
+terminus non sit ; sed si ne­ gatio sit, conditionalis eodem destruetur modo, ut cum dicimus,si est
+a,b
+non est. Non ostendendum est, aut non esse a,aut
+b
+esse; sed cum sit
+a,
+posse esse b terminum.Sunt autem hypotheticae proposi­ tiones,alise quidem affirmativxe,alia3 negativas ; sed de his nunc loquor quae in consequentia positae in
+connexione esse dicuntur : affirmativa quidem, ut . cum dicimus,si est a,est
+b,
+si
+a
+non est, non est
+b ;
+negativa, si est
+a,
+non est
+b
+; si non est a, non est b.Ad consequentem enim propositionem respicien­ dum est,ut an affirmativa an negativa sit propositio judicetur.Idem de compositis propositionibus con­ ditionalibus intelligi oportebit.De his autem propo­ sitionibus quae in disjunctione sunt positae,cum de carum syllogismis tractavero commodius atque ube­ rius dicam. Hypotheticos syllogismos, quos Latine conditionales vocamus, alii quinque, alii quatuor, alii tribus constare partibus arbitrantur, quorum moxcontroversiarn dijudicabo,si prius quibus nomi.
+nibus talium partes syllogismorum appellentur os­ tendero.Quoniamenim omnis syllogismus ex propo­ sitionibus texitur, prima vel propositio, vel sum­ ptum vocatur; secunda vero dicitur assumptio ; ex his quae infertur, conclusio nuncupatur. Cum enim ita dicimus, si homo est, animal est, homo autem est, animal igitur est, ea quidem enuntiatio per quam dicimus, si homo est, animal est, pro­ positio vel sumptum vocatur, ea vero quam huic adjunximus,estautem homo,assumptio dicitur,ter­ tia conclusio nominatur,per quam oSLendimus esse animal qui fuerit homo. Sed quoniam sæpe evenit ut propositionesenuntiatae consequentia non sitve­ risimilis, propositioni saepe adjungitur approbatio, per quam id quod est propositum verum esse mon-
+stretur.Assumplio quoquesaepead fidem per se non vid Dtu r idonea,huic q uoquejuvamen probationis ad­ jungitur, ut vera esse videatur. Quo fit ut saepe quinque partes,saepe quatuor, interdum tres hypo­ theticossyllogismos haberecontingat.Nam quinque constabit partibus si et propositio et assumptio pro­ bationibus indigebunt;quod si sive propositio, sive assumptio probatione indigebit, quadripartitus est syllogismus,quod si neutra est approbanda,triparti­ tus esse relinquitur.ln hac vero sententia etiam M. Tullius esse deprehenditur. In Rhetoricis enim syl­ logisinosquosdam quinquepartitos esse, quadripar­ titos alios confirmat. Quibus vero talium syllogis­ morum non placet partes utraternarium numerum prop'lgari,hi proposilionum probationes atque as­ sumptionnm non putantinsyllogismi partibus esse
+ponendas. Neque enim propositionem esse, de qua syllogismus potest existere,cui non sentit auditor. Quod si per se dubia est ea probatio quae proposi. tioni dubiae adjungitur,faciens fidemeidem cui ad­ jungitur propositioni,facit utsit idonea syllogismo, ac per hoc tunc incipit esse syllogismi propositio, cum talis per probationemredditur,ut exeaaliquid colligi possilitunc vero aliquid ex ea colligi potest, cum probationis auxilio poteritab auditore concedi. Quocirca membrum quoddam,et quasi fulcimentum dubis propositionis vel assumptionis probatio esse videtur,non pars etiam syllogismi; sed nostra sen­ tentia his potius accedit qui tribus partibus cum constare pronuntiant. Etenim quaelibet probatio quæ vel probationi vel assumptioni copulatur, proposi-
+tionisessevelassumpt:onis probationis dicitur.Cum igitur non ad syllogismum,sed ad propositionem vel assumptionem referatur, cujus est probatio, non oportet eam syllogismi proprie partem videri.Nam illud quod objici potest,nullusignorat quin partium partes etiam totius esse partes dicantur.Sed pluri­ mum refert utrum ipsae sint primitus partes totius, autin secundarum partium postremitate ponantur. Amplius,si sit per se nota probabilis propositio,to­ tus syllogismus probatione non indigst.Quod si per se propositionis nulla fides esl,necesse est ut ea pro­ positio quoddam velut testimonio probationis indi­ geat.Non igitur syllogismus probatione in eo quod
+syllogismus est indigebit,sed propositio,si fide pro­ pria fuerit destiluta. Idem eliam de assumptione dici potest.Quare manifestum est eorum esse sen­ tentiam præponendam, quæ asserit syllogism um tri­ bus partibus tantum jungi.Pr:Eterea si quae propo­ sitio probationis indigeat,ut eam vera fides sequa­ tur,aliquo demonstrabitur syllogismo.Quocirca qui fieri potest utrectesyllogismusparssyllogismisim­ plicis esse dicatur?Ipsam enirn probationem propo­ sitionis syllogismum vel exsyllogismoessenecesse est.His ita determinatis,de bis protinus syllogismis quorum propositiones in connexione positæ duobus terminis constant,explicandurn videtur.Horum au­ tem duplex forma est,quatuor enim sunt per proB­ cedentis propositionis affirmationem,qui Bunt primi
+hypothetici atque perf'ecti,quatuorveropersequen­ tis negationem,qui cum demonstratione indigeant, non videntur esse perfecti. Prioris vero negatione et sequentis positione nullus omnino syllogismus et­ ficitur.Omnium igiturtalium propositionum primum numerus explicetur, ut qui fiant ex his syllogismi, facilis acquiratur agnitio. Sunt autem quatuor: si est
+a,
+est
+b;
+si est
+a,
+non ent
+b;
+si non est
+a,
+est
+h;
+si non est a,non est b.Ac de prioribus quidem syl­ logismis atque perfectis primo loco dicendum est. Horum enim primus modusest hic a prima veniens propositione, si est a,est
+b.
+Atqui est a,est igitur
+b;
+cum enim prima propositiotantulII conditionem pro­ ponat, ut si sit
+a,
+necesse sit consequi essentiam
+b
+terminum, id assumptio quod præcedit assumit ac ponit, dicitque: Atqui est a, consequitur igitur ut
+sit b,id enim ex consequentia primae propositionis effectum est.At si id quod sequitur assumendo po­ namus, nullus efficitur syllogismus. Age enim sit hujusmodi consequentia,ut si sit a,sit b,assumatur­ que quod sequitur hoc modo: at est b, non conse­ quitur ut si vel non sit a.Id vero clarius fiet exem­ plo: sit enim propositio, si homo est, animal est, assumaturque esse animal, scilicet quod sequitur, non necesse erit hominem vel esse vel non esse, potest enim cum sit alias hoc vel esse vel non esse. Secundus vero modus est eorum in quibus prior pro­ positionis pars in assumptione repetitur,qui venit ex secunda propositione superius digesta,hoc modo, si est
+a,
+non est
+b;
+atqui est
+a,
+non est igitur
+b;
+id enim propositum fuerat,si esset a,non esse b.Sum-
+pto igitur praecedente, consequentis est facta con- ] clusio; quod si consequens sumas, nullus videtur fieri syllogismus,quianecconsequitur ullanecessi­ tas hoc modo, si est
+a,
+non est
+b;
+atqui non est
+b,
+non necesse est esse a, vel non esse. Age enim ita sit propositio, si est nigrum, non est album, et id quod sequitur assumatur,atqui non estalbum,non necesse erit esse nigrum vel non esse,quia cum non sit album,poteritaliquod esse medium. Tertius vero modus est talium syllogismorum qui venit ex tertia propositione, quorum in assumptione ponitur id quod præcedit hoc modo,si non est
+a,
+est b; atqui non est
+a,
+est igitur £; igitur hæc conclusio rursus
+ex conditione propositionis evenit, id enim fuerat propositum, ut si non esset
+a
+esset
+b;
+quod si con­ vertas et sumas esse b,id est quod consequitur,non necesse erit esse vel non esse id quod praecedit.Sed hujus exemplum non potest inveniri eo quod si ita proponatur, ut cum non sita, sit b,nibil esse me­ dium videatur
+a
+atque b.Sed in his si alterum non fuerit,statim necesse est esse alterum,et si alterum fuerit,statim necesse est alterum non esse; videtur ergo quodammodo exconsequenti posito in his fieri syllogismos. Sed quantum ad rei naturam ita est, quantum vero ad propositionis ipsius pertinet con­ ditionem,minime consequitur.Quod quidem ex his patet quæ superius dicta sunt;in utrisque enim su­ perioribus modis,consequenti posito nihil ex neces-
+sitate collectumest,hic vero tertius modus,quantum ad complexionem propositionum pertinet, in quo si idponendo quodsequebatur assumitur,nullum effi­ cit syllogismum.Quantum vero ad rerum naturam, in quibus solis hæ propositiones enuntiari possunt, videturesse necessaria consequentia hoc modo,ut si dies non est, nox slt,si nox sit, dies non sit exne­ cessitateconsequitur,similesquesunt hi syllogismi his qui in disjunctione sunt constituti, de quibus paulo posterius commemorabo,quorumque ad illos et differentias et similitudines dabo.Quartus modus est ex quarta propositione,cum ita proponitur,sia non est,b non est,atqui non est a,non est igitur b. Rursus enim id quoque consequi ex propositione monstratur, quæ proposuit non fore
+b,
+si
+a
+prior terminus non fuisset.At si id quod sequitur assuma­
+mus,nulla videtur fieri posse necessitas,veluti si ita dicamup,non est autem h,non necesse erit esse vel non esse a.Age enim proponatur,si animal non est, non esse horninem,assumaturque,at non est homo, non nccesse est ut vel sit, vel non sit animal. De­ monstratum igitur est in hujusmodi syllogismis si id quod praecedit ponendo assumitur,perfectos atque ex ipsis propositionibus probabiles, et necessarios fieri syllogismos;si vero id quod sequitur ponendo assumatur,nullam fieri necessitatem praeter in ter­ tio modo qui cumsit similishissyllogismis qui per disjunclionen propositis enuntiationibus fiunt,vide­ tur in rebus de quibus proponi potest servare ne­ cessitatem,cum in complexione non servet,quod ex exteris tribus modis arguitur primo,secundo atque
+quarto,in quibus sumpta sequente ponendas propo­ sitionis parte, nihil ex necessitate conficitur.Ac de his quidem syllogismis,qui duobus terminisjungun­ tur,quorum prima pars propositionisponendoassu­ mitur quantum ad institutionis pertinet modum,suf. ficienter expressimus. Nunc vero dicendum est de hisquorum consequens propositionis ita sumitur,ut perimatur. Ex his quoque quatuor fiunt modi,cum prior propositionis pars in assumptionenon possit interimi ut, ulla syllogismi necessifasconsequatur. Est igitur primus modus talium syllogismorum a prima propositione veniens sic, si est a, est 6, at non est
+b,non
+est igitur a;hic igitur
+b
+terminus,qui
+in prima propositione consequens fuerat,in assum­ ptione est interemptus,ut
+a
+terminus qui propositio­ nis prima pars fuerat interimetur,eaque necessitas tali ratione probabitur,propositum namque est,si a sit,
+b
+esse; et assumptio facta est ut consequens pars propositionis interimeretur,id est non esse b. Dico quia consequitur non esse a,nam si potest esse a,cum non sit b,frustra erit prima propositio quæ ait, si
+a sit, b
+esse. Atqui ea propositio valet, cum igitur sit a, est b.Quod si cum non sit b,sit a,quod scilicet ex assumptione proponitur, idem
+b
+erit et non erit: non erit,quia
+b
+non esse proponit assum­ ptio; erit autem, quia si est a,erit b,quod fieri non potest;non igitur si
+b
+non fuerit,erit a..Hic est ergo primus modus talium syllogisrnorum,qui ex inter-
+empta parte,consequenti propositionis nunt,qui non sunt perfecti neque ex se cogniti, sed indigent vel ejus quam superius proposui,velalteriuscujuslibet probationis,ut veri esse monstrentur.Quod si prima [pars]propositionis interimatur,non erit syllogismus; age enim ita dicamus, si est
+a,
+est b; atqui non est a,non sequitur ut sit vel non sit
+b;
+ut etiam de­ monstratur exemplo. Sit enim propositio, si homo est,animal est; sed bomo non est, non necesse erit vel esse animal,vel non esse. Secundus modus per contradictionem assumptionis,qui asecunda propo. sitione descendit,ille est cum ita proponimus,si est a,nonest bjatquibest,igitur anonest.lIic cnimrur­ sus secunda pars propositionis interempta,nam cum secunda pars propositionis
+b
+non esse diceret, si
+a
+fuisset assumptio,6 esse pronuntiat. Affirmatio au­
+tern perimi t negationem,quam per assUJuptioneJJ con­ sequitur, ut a non sit hoc modo.Sit enim proposi­ tio, si
+a
+est,
+b
+non est, et sit
+b.
+Dico quia non erit
+a,
+nam si erit a, cum sit b,idem
+b
+erit et non erit; non erit quidem ex prima propositione quæ dicit,si est a, non est b; erit au tern per assumptionem,qua dicimus esse
+b.
+At si praecedens pars propositionis auferatur,non fiet ulla necessitas, Age enim in hu­ jusmodi propositione, si
+a
+est, 6 non est, ita dica­ mus: atqui non est a,non consequitur ut sit vel non sit b.Id vero tali arguitur exemplo.Dicamus enimsi nigrum est, album non est,assumamusque non esse nigrum, non statim consequitur ut vel album sit, vel non sit,potest enim esse aliquod mediorum.Ter­ tius modus ille est ex tertia propositione deductus,
+cum ita proponimus, si
+a
+non est,
+b
+est, b autem, non est,
+a
+igitur est. Hic quoque consequens pars propositionis assumpta est, et cum in propositione affirmaretur,in assumptione negata est, et est rata consequentia,et perficiens syllogismum hoc modo: nam si verum est, cum non sit a, esse b, dico quia si
+b
+non sit, est
+a:
+nam si poterit, cum
+b
+non sit, non esse a, frustra est prima propositio,quas dicit, cum non sit
+a
+esse
+&,
+eritque
+b
+ac non erit : non erit quidem ex ea assumptione quæ proponit non esse
+b;
+erit autem, quia, si
+a
+terminus esse nega­ bitur,posito non esse
+b
+termino,cum nonsita,erit
+b,
+quod est impossibile. Non igitur potest fieri ut
+cum non sit b,non sit a.Consequitur igitur,ut cum non sit b,sit a:quod si prior pars propositionis quae præcedens est auferatur,nullus est syllogismus,hoc modo: cum enim dicemus, si
+a
+non est, esse
+b,
+si assumamus: atqui est a, nihil evenit necessarium ut vel sit b, non sit secundum ipsius complexio­ nis naturam.Nam hic quoque,ut in his in quibus in assumptione secundus terminus ponebatur,dicen­ dum est,secundum ipsius quideIT: complexionis natu. ram,nullum fieri syIlogiHmum;secundum terminos vero in quibus solis dici potest. necesse est si
+a
+fuerit,
+b
+non esse, in contrariis enim tantum et in his immediatis,id est medium non habentibus,hæc sola propositio vere poterit praedicari, velut cum dicimus, si dies non est, nox est, sive non fuerit
+dies, nox erit, sive non fuerit nox, dies erit, sive dies fuerit, nox non erit, sive nox fuerit, dies non erit. Quartus modus est horum syllogismorum ex quarta propositione descendens, cujus haec prima propositio est, si non est
+a,
+non est
+j6,
+est autem
+b,
+erit igitur a;hic quoque secunda pars propositionis assumpta est, et quoniam eadem negatione fuerat posita,affirmatione est interempta;affirmatio enim vim negationis interimit. Hic quoque eodem modo syllogismi necessitas continetur,nam si posito,cum non sit a, non esse b, sumatur esse
+b,
+dico quia consequens est etiam a esse.Nam si potes.t,cum sit
+b,
+non essea,frustra est prima propositio, quæ,cum
+a
+non sit,b non esse pronuntiat;fiet igitur rursus ut idem
+b
+sit ac non sit. Ex assumptione namque erit
+b,
+ita enim dicitur, atqui b est. Si vero hoc posito
+possit non esse a,rursus
+b
+non erit,quia prima pro­ positio ait, si non sit a,non est b, quod est impos­ sibile; quod si ea portio propositionis quæ praece­ dens est auferatur, nihil evenit necessarium. Age enim ita dicamus, si non est a,non est b, assuma­ musque, atqui est a, non consequitur ut
+b
+vel esse vel non esse necessario concludatur,ut in hoc syllo­ gismo: si non est animal, non est homo, atqui est animal, non necesse est vel esse hominem vel non esse. Hi igitur quatuor syllogismi imperfecti dicun­ tur,idcirco quoniam per se non habent apertam at­ que perspicuam consequentiæ necessitatem, eaque illis ex probationeconficitur.Utigiturbreviter con­ cludendum sit,in hypotheticissimplicibussyllogis­ mis connexas habentibus propositiones, quoquo
+modo factis,si quidem prima pars propositionis as­ sumitur,si ea ponatur, fient quatuor syllogismi per se noti atque perfecti; si vero id quod consequitur assumatur, nulli est syllogismo necessitas, nisi in tortio tantummodo, qui non propter complexionis naturam, sed propter terminorum contrarietatem, in quibus solis dici potest, videtur conclusionisne­ cessitatem tenere.Itaque si quid in assumptione ex . his quas in propositione sunt pronuntiata ponantur, quatuor vel quinque fieri necesse est syllogismos perfectos: quatuor, ubi prima pars propositionis, quinque vero, ubi secunda pars propositionis po­ nendo assumitur,si non ad complexionis naturam,
+sed ad terminos aspiciamus. Si quid vero ex his in , assumptione quae prima propositio enuntiat, aufera­ tur, si quæ est consequens pars propositionis aure­ ratur, fientimperfecti et probatione indigentes qua­ tuor syllogismi ; vero prior propositionis pars au­ feratur, nulla erit necessitas syllogismi, in tertio tantum modo ubi non facit necessitatem complexio, sed terminorum natura. Quocirca hic quoque qua­ tuor vel quinque sunt syllogismi: quatuor quidem, si secunda pars propositionis fuerit interempta ; quintus vero, si eum non complexionis natura, sed terminorum proprietas metiatur.Quocircasiex duo­ bus terminis propositio prima constat, octo sunt vel decem, nec amplius syllogismi. Ac de his quidem conditionalibus syllogismis, quorum propositiones connexæ sunt, etex duabusprædicativissimplicibus
+constant, sufficienter expeditum est, nunc de his syllogismis dicendum est, qui ex praedicativaet hy­ pothetica, vel ex hypotheticapr<edicativaqueconne­ ctuntur. Horum autem facile complexiones omnium syllogismorum apparebunt, si prius earum numerus exponatur. Sunt igitur priores quidem quæ ex præ­ dicativa atque bypothetica connectuntur hæ :
+Si sit n, cum sit
+b,
+est
+c.
+Si sit
+a,
+cum sit
+b,
+non est
+c.
+Si sit
+a,
+cum non sit
+b,
+est c.
+Si sit
+a,
+cum non sit
+b,
+non est
+c.
+Si non sit
+a,
+cum sit
+b,
+est
+c.
+Si non sit
+a,
+cum sit
+b,
+non est
+c.
+Si non sit
+a,
+cum non sit
+b,
+est c.
+Si non sit a, cum non sit b, non est c.
+Ac primum quæ sit earum natura, videtur esse tra­ ctandum. Neque enim quoque modo conditio pona­ tur, conditionalis propositio fiet, sed si illa conse­ quentiapropter positam evenitconditionem; namsi quis ita dicat, si homo est, cum sit animal, anima­ tum est, non videtur facere apposita conditio con­ sequentiae necessitatem ; nam etiam si non sithomo, nihilominus tamen, cum sitamimal,animatum est: at si ita ponatur, si sit bomo, cum sit animatum, est animal, videtur consequentiae ratio in condi­ tione consistere. Neque enim necesse est, cum ani­ matum sit, animal esse, nisi homo vel aliquid tale fuerit, quod animatum esse proponitur , tunc enim quod animatum est, animal esse necesse est, homo namque vel quodlibetaliud taleanimatum
+est. Per singulas igitur propositiones eundum est, et spectanda est earumsingularumnaturabocmodo: Prima propositio per quam enuntiatur, si est
+a
+cum sit 6, est
+c,
+talis esse debet, ut
+b
+quidem possit esse etiam praeter a, si tamen
+a
+fuerit,;
+b
+non esse non possit. Rursus idem 6terminuspossitesseetiam cum non est
+c,
+nec sit necesse ut
+b
+posito sit etiam c, sed tunc tantum necesse sit esse
+c,
+quando
+b
+ter­ minus
+a
+terminum sequitur, ut si sit ahomo,
+b
+ani­ matum,
+c
+animal: animatum enim et præter homi­ nem et praeter animal esse potest. Si vero sit homo, animatum essenecesseest, et cum animatum homi­ nis essentiam consequatur, consequitur in ipsum
+animatumsitanimal.Itemseeundam propositionem, quae ait, si est
+a
+cum sit b, non est
+c,
+hujusmodi esse oportebit, ut
+b
+quidem praeter
+a
+esse possit, sed cum fuerit a, necesse sit esse etiam b. At vero
+c
+tale sit ut simul quidem cum
+a
+esse non possit, cum
+b
+vero esse possit, et non esse, sed tunc tan­ tum cum
+b
+esse non possit, quando
+b
+terminus
+a
+terminum sequitur, ut sit
+a
+homo,
+b
+animatum,
+c
+insensibile. Namqueanimatum praeter hominem ese potest ; at si homo sit, ut sit animatum necesse est, insensibile vero potest esse animatum et non esse. Sed tunc insensibile et animatum non conveniunt, cum idcirco est animatum, quia homo esse praedi­ ctus est. Tertia vero propositio a quidem terminum debet habere, qui nunquam simul esse possit cum
+b
+termino,
+c
+vero terminum talem esse oportebit, ut
+possit esse quidem et non esse, si non fuerit
+b,
+sed tunc tantum necesse sit esse
+c
+terminum, si
+b
+termi­ nus non sit, si idcirco non est b, quoniam
+a
+termi­ nus esse praedictus est, ut sisitn homo,
+b
+inanima­ tum,
+c
+sensibilc. Nam si est homo, non est inanima­ tam, sensibile vero esse potest simul et non esse, cum inanimatum non sit. Possunt enim esse quae­ dam quae nec inanimata sunt, nec sensibilia,ut ar­ bores. Idem tamen sensibile necesse est esse, cum non sit inanimatum, si idcirco inanimatum non est, quiahomoesse prædictus est.Rursus quartapropo­ sitio hujus esse debet proprietatis, ut b quidem ter­ minus nullo modo esse possit, si fuerit
+a,
+at vero
+c
+possit esse et non esse, si non fuerit 6. Sed tunc tan­ tum
+c
+cum non fuerit
+b,
+non esse necesse sit, si
+b
+terminus non sit, quia aterminus prius esse propo­ situs est, ut si sit
+a
+homo,
+inanimatum,
+c insensi­ bile ; animatum enim non erit si fuerit homo ; in­ sensibile vero potest esse et non esse, si non sit inanimatum. Tunc tantum insibile non esse ne­ cesse est, cum inanimatum non sit, cum idcirco in­ animatum non est, quia homo esse praedictus est. Quinta quoque propositio tales habere terminos debet, ut
+a quidem
+si non sit, necesse sit esse
+b,
+si
+b
+terminus sit, possit et esse et non esse
+c.
+Tunctan­ tum
+c
+esse necesse sit, cumfueritb, cum idcirco est
+q,
+quia
+a
+terminus esse negatus est, ut si sit
+a
+qui­ dem animatum,
+b
+vero insensibile,
+c
+invitale. Igitur si non sit animatum, statim consequitur ut sit in­ sensibile, invitale autem potest esse, si sit insensi-
+bile, ut lapis, potest vero non esse invitale, si sit in­ sensile, ut sunt arbores. Sed tunc tantum, posito insensibili, consequitur ut invitale esse necesse sit, cum idcirco est insensibile, quia nonestanimatum. Sextaveropropositiotaleshabereterrrinosdesiderat, nt
+b
+quidem esse necesse sit, si non fuerit
+a,
+at vero
+c
+terminus si sit b, vel esse vel non esse possit ; tunc tamen
+c
+non esse necesse sit, cum sit b, quando idcircoestfi, quia a terminus non esse propositus est, veluti si sit
+a
+animatum, b insensibile,
+c
+vitale. Nam necesse est esse insensibile, si non fuerit ani­ matum, cum vero sitiusensibife,ficri quidem potest ut non vivat, veluti lapis, fieri autem potest ut vivat,
+veluti arbor; tunc tamen necesse est non vivere, , cum sit insensibile,quando idcirco est insensibile, quia animatum non esse propositum est. Septimus modus talibus terminis debet esse contextus, ut
+b
+quidem sine
+a
+esse non possit,
+c
+autem si non sit,
+b
+esse et non esse possit; tunc tamen necesse sit
+c
+terminum esse, si non sit
+6
+cum idcirco
+b
+non esse positum sit, quoniam a fuerat denegatum. Siienirn a quidem animatum,
+b
+vero sensibile,
+c
+invitale ; sen­ sibile igitur esse non potest nisi fuerit animatum. Si igitur non sit animatum, non erit sensibile, si vero non sit sensibile, potest esse invitale, velut in lapidibus ;idem potest non esse, velut in arboribus; tunc tamen sensibili denegatio invitale necesse est esse, cum idcirco non sit sensibile, quia animatum
+non esse positum est. Octava propositio his terminis ] connectenda est, ut
+b
+terminus esse non possit, si non fuerit
+a,
+cum vero non sit
+b,
+terminus
+e
+et non esse et esse possit. Sed tunc necesse sit
+c
+terminum non esse, cum non fuerit
+b,
+cum idcirco non sit
+b,
+quia a terminus prius esse negatus est, ut si sit
+a
+quidem animatum,
+b
+vero sensibile,
+c
+vitale, sensi­ bile igitur esse non potest nisi fuerit animatum ; idem tamen sensibile si non sit, et esse et non psse vitale potest, non esse, ut lapides, esse vitale, ut arbores ; tunc tamen necesse est vitale non esse, si non sit sensibile, cum idcirco sensibile non est, quia prius animatum esse negatum est. Ex bis igitur constatcterminum,quoquo modo fueritb, in condi­ tionalibus propositionibus, quæ in tota enuntiatione post prasdicativas locantur, posse tam loco affirma­
+tionis quam negationis assumi, ex quibus assum­ ptionibus fiunt complexiones variae syllogismorum. His igitur ita expeditis, de omnibus in commune praecipiendumvidetur;namcumsintoctopropositio­ nes qu£ eex prasdicativa hypothelicaque nectuntur, que superius ascriptæ sunt, earum quatuor ita fa­ ciuntconsequentiam, si aterminussit; quatuorvero ita conditionem proponunt, ut
+a
+terminus non sit. Fiunt vero ex his syllogismi hoc modo. Ex prima propositione, si est
+a,
+cum sit b, est c ; atqui est
+a,
+cum igitur sit
+b,
+est c, vel sic : atqui cum sit
+b,
+non est c, non est igitur a. Posse autem hujusmodi esse assumptionem ex superius descripta propositio­ num natura cognoscitur. Ex secunda propositione, si esta cum si
+b,
+non est a ; atqui est
+a
+cum igitur
+sit
+b,
+non est c ; vel ita : atqui cum sit
+b,
+est
+c,
+non est igitur
+a.
+Ex tertia, si esta, cum non sit
+b,
+estc ; atqui e4t
+a,
+cum igitur non sit
+b,
+non est
+c
+; vel ita : atqui cum non sit 6, non est
+c,
+nou est igitura.Ex quarta, si est
+a,
+cum non sit 6, non eatc ; atqui est
+a,
+cum igitur non sit
+b,
+est
+c
+; vel ita ; atqui cum non sitb, est c, non est igitur a, In his igitur quatuor propositionibus, in quihus a terminus esse proponi­ tur, si assumptum fuerit eumdem a terminum esse
+c
+terminus vel esse vel non esse monstratur. Idem vero si cterminus assumatur, siquidem cum est non esse, vel cum non est esse assumatur,a terminus non esse monstrabitur. Exquintaetiampropositione ita
+syllogismi fiunt,si non est
+a
+cum si
+b,
+est c ; atqui non est
+a,
+cum igitur sit
+b,
+est c; vel ita atqui est a,cum igitur sit
+b,
+non est c;vel ita : atqui cum sit b,non est c, est igitur
+a
+' vel sic : atqui cum sit
+b,
+est
+c,
+non igitur a. Quod idcirco evenit ut hujus­ modi propositio quatuor colligat syllogismos, quia in his tantum si non sit aliquid,esse aliud proponi potest,in quibus contraria medietatibus carent; in his enim vel interempto altero alterum ponitur,vel posito altero,alterum necesse estperimatur.Exsexta si non sit a, cum sit
+b,
+non est c ; atqui non est a, cum igitur sit
+b,
+non est c;vel ita:atqui cum sit
+b,
+est c,igitur est a.Ex septima,si non est a,cum non sit
+b,
+est
+c
+; atqui non est
+a,
+cum igitur non sit
+6,
+est c;vel ita:atqui est a, cum igitur non sit b, non
+est
+c
+; vel ita : atqui cum non sit b, non est c, est igitur ajvel ita:atqui cum non sit
+b,
+est e, non est igitur a.ln hac quoquecomplexione proptereamdem causam quatuor collectiones fiunt.Ex octava,si non est
+a,
+cum sit b, non est c ; atqui non est
+a,
+cum igitur non sit, b, non est c;vel ita : atqui cum non sit b, est c,est igitur a.In his quatuor quoque propositionibus,si quidemanon est esse assumatur,
+c
+terminus vel esse vel non esse concluditur.Si vero c cum est non esse,vel cum non est esse assumatur,
+a
+terminus semper esse concluditur,nisi in quinto et septimo tantum modis,ubi cum
+c
+esse assumatur,a non esse monstratur. Omnium vero communis est ratio.præter quintum ac septimum modum,ut si
+a
+terminus ita assumatur,quomodo in prima enuntia­ tione propositus est,conditio quæ sequitur,in con­
+clusione firmetur-. Si vero conditio quæ sequitur contrario modo atque in enuntiatione proposita est, assumatur, categorica proposilio, quæ prima est, interimatur. In septimo vero vel quinto modo qua­ que ratione assumptum alterum,in utrisque parti­ bus faciet conclusionem. Itaque fiunt sedecim vel viginti potius syllogismi:octo quidem,si
+a
+terminus, ut est propositus, assumatur; octo vero, si
+c
+termi­ nus, converso modo atque in propositione est posi­ lus, assumatur. Quatuor vero ex septimo et quinto modis utrobique facientibusconolusionem. Reliquis vero complexionibus nulla est consequentia necessi­ tatis.Ut autem planior intellectus fieret, ipsas pro­ positiones cum suis terminis positas annotavi,ut se­ cundumpraedictosassumptionum modos non ratio De
+solum demonstratio fieret, verum etiam per exem­ plum currentibus doctrina clarior elucesceret.
+Si est
+a
+homo, cum sit
+b
+animatum, est
+c
+animal
+Si est
+a
+homo, cum sit
+b
+animatum, non est c in­ sensible.
+Si est
+a
+homo, cum non sit
+b
+animatum, est
+c
+sen­ sibile.
+Si est
+a
+homo, cum non sit b animatum, non est
+c
+insensibile.
+Si non est
+a
+animatum, cum sit
+b
+insensibile,est
+c
+invitale.
+Si non est
+a
+animatum, cum sit
+b
+insensibile, non est
+c
+vivens.
+Si non est
+a
+animatum, cum non sit
+b
+sensibile, est
+c
+invitale.
+Si non est
+a
+animatum, cum non sit
+b
+sensibile,non est
+c
+vitale.
+Expeditis igitur his syllogismis qui ex talibus propo­ sitionibus fiunt,quæ prima prædicativa,secunda hy­ pothetica copulantur, nunc ad eos transitum facia­ mus, qui ex prima conditionali, secunda vero præ. dicativa nectuntur, quarum omnium numerus ponendus est, ut de quibus loquamur lector agno­ scat.
+Si cum sit
+a,
+est
+b,
+est c.
+Si cum sit
+a,
+est
+6,
+non est
+c.
+Si cum sit
+a,
+non est
+b,
+est
+c.
+Si cum sit a, non est b, non est
+c.
+Si cum non sit
+a,
+est
+b,
+est
+c.
+Si cum non sit a, est b, non est
+c.
+Si cum non sit
+a,
+non est £, est
+c.
+Si cum non sit a, non est b, non c.
+Prima igitur propositio tales habere terminos dtbet, ut
+a
+quidem possit esse præter
+b
+et c; sed tunc si
+a
+fuerit, c esse necesse sit, cum
+a
+terminum
+b
+termi­ nus subsequatur, ut si sit
+a
+quidem animatum,
+b
+homo, c animal animatum namque et præter homi­ nem etpraeteranimalasse potest. Tunc vero id quod animatum esl, esse animal necesse est, si id quod est animatum, homo est. Secunda propositio talibus terminis contexenda est, uta quidem præter b atque c, et cum eisdem esse possit; tunc tamen necesse sit non esse c cum est !t, si
+a
+posito
+b
+subsequatur, ut
+si
+a
+sit animatum,
+b
+homo,
+c
+equus. Animatum I quippe, ut et homo, vel equus sit fieri potest. Tunc vero necesse est id quod animatum est, non esse equum, si id ipsum quod animatum est,homo fuerit. Tertia propositio his terminis copulatur.ut
+a
+quidem cum
+b
+et
+c
+vel edse vel non esse possit, tunc tamen necesse sit simul esse cum c, si posito
+a
+termino, 6 terminus abnuatur, ut si sit
+a
+animal,
+b
+animal, c insensibile. Nam quod animatum est, vel animal vel non animal, vel insensibile, vel non insensibile esse potest, sed tunc necesse est id quod animatum est esse insensibile, si animato posito animal ab­ nuatur. Quartae propositionis hi termini sunt, ut
+a
+quidem cum
+h
+et cum c esse et non esse possit, tunc vero ab eo c modis omnibus separetur, si po-
+sito
+a
+termino,
+b
+terminus abnuatur, ut si
+a
+quidem animatum,
+b
+animal, c homo. Nam quod animalum est et animal esse et non esse, itemque homo esse et non esse potest, tunc tamen necesse est ut, cum sit animatum, non sit homo, cum posito animato esse animal denegetur. Quinta vero propositio his terminis connectitur, ut si non sit a, possit et esse et non esse
+b
+atque c; tunc tamen cum non sit a, terminum c esse necesse sit, si posito non esse a, esse
+b terminum
+consequatur,ut si sit
+a
+quidem in­ vitale,
+b
+homo, c animal. Nam si non sit invitale, tunc possunt homo atqueanimal esse vel non esse at tunc necesse esse est animal negato invitali, si cum invitale denegabitur, esse hominem subsequatur.
+Sextam vero propositionem talia debent membra conjungere, ut si non sit
+a
+terminus,
+b
+atque c vel esse vel non esse possint; tunc vero denegato
+a
+termino, c non esse necesse sit, cum negationem
+a
+termini,
+b
+termini affirmatio comitabitur, ut si sit
+a
+invitale, b homo, c equus. Nam quod non estinvitale, potest vel homo vel equus esse vel non esse, sed necesse est non esse equum invitali denegato, si negationem invitalis hominis positio subsequatur. Septimae propositionis hos esse terminos Oportebit, ut si non sit a, termini
+b
+atque c et esse et non esse possint; sed tunc necesse sit esse c terminum si negationem
+a
+termini, b termini negatio subse­ quatur, ut si sit
+a
+animal,
+b
+animatum, c invitale, animal quidem si non sit, animatum et invitale esse et non esse possit. Tunc vero necesse est, si animal
+non sit, invitale esse, quando, si animal non sit,non eritanimatum.Octava propositio est cum, negato
+a
+termino,possuntetesseetnon esse
+b
+atquectermini. Sed tunc necesseestsia terminusabnuatur, nonesse c terminurn,cum negationem a termini nAgatio b ter­ mini subsequetur, ut sit ainvitale,b animal, c homo. Si igitur non sit invitale, potest et esse et non esse animal et homo. lIis igitur ita expeditis, illud in commune dicendum est, quod superiores quatuor propositiones ita faciunt conditionem, si Fuerit a, posteriores vero si non fuerit, ex quibus omnibus syllogismi tali ratione nascuntur. Ex prima proposi­ tione, si cum sit
+a,
+est b est c; atqui cum sit
+a,
+est b, est igitnr c, vel ita : atqui non est c, cum igitur sit a, non est b.Posse vero fieri tales conclusiones,
+ex superius descriptarum propositionum natura eo­ gnoscimus poteratenim
+a
+terminus esse; et non esse cum
+b.
+Item ex secunda, si cum sita, est
+b
+non est c; atqui cum sit a, est b, non est igitur c ; vel ita ; atqui est c, cum igitur sit a, non est
+b.
+Ex tertia veroutrobiqueassumptisterminis collectiones fiunt, ut si cum est
+a,
+non est b, est c : atqui cum sit
+a,
+non est
+b,
+est igitur c ; vel ita : atqui cum sit a, est,
+b,
+non est igitur a ; vel ita : atqui non est c, cum igitur sit a, est
+b
+; vel sic : atqui est c, cum igitur sit
+a,
+non est
+b.
+Quæ idcirco facta est utrobique colle­ ctio,quoniamin his terminis hee propositiones pote­ rant poni, in quibus immediatacontraria reprieban­ tur. In illis enim alterius positio alterutrum perime­ bat, et alterius interemptio ponebat alterum. Ex
+quarta, si cum sit
+a,
+non est
+b, non
+est
+c;
+atqui cum sit a, non est
+b,
+non est igitur c; vel ita : atqui est c, cum igitur sit a, est
+b.
+Ex quinta, si cum non sit
+it,
+est
+b,
+est c: atqui cum non sit a, est
+b,
+est igitur c; vel sic: atqui non est c, cum igitur non sit a,non est
+b.
+Ex sexta, si cum non sit
+a,
+est b, non est c; atqui cum non sit a, est
+b,
+non est igitur c; vel sic: atqui est c, cum igitur non sit a, non est
+b.
+Ex se­ ptima utrobique colliaiturhoo- modo, si cum non sit
+a,
+non est
+b,
+est c; atqui cum nou sita, non est
+b,
+est igitur c; vel ita : atqui cum non sita. est b,non est igitur c; vel ita: atqui non est c, cum igitur non sit a, est b:vel sic : atqui c est, cum igiturnon sit a, non est b. Hic quoque propter eamdem causam in
+alterutra assumptione syllogismus fiet; nam esse i aliquid cum aliud non sit in immediatis tanLumcon­ trariis dicebatur. Ex octava, si cum non sit a, non est
+b,
+non est c; atqui cum nonsit a, non est b,non est igitur c, vel ita: atqui est c, cum igitur non sit a, est b. In omnibus igitur superius descriptis syllo­ gismis,haec ratio est, ut si
+b
+terminus assumatur,ita ut in propositione est positus, ita
+c
+terminum con­ cludat, ut in eadem propositione fuerat collocatus. At si
+c
+terminus contrario modo assumatur quam in propositione fuerit positus, contrario modo
+b
+termi­ nus in conclusione monstrabitur,praeter tertium et septimum modum, in quibus etiamsi
+b
+terminus contrario modo atque in propositione est positus assumatur,cterminumcontrariomodoatquepositus
+est colligit, vel si
+c
+terminus, itaut in propositione est positus assumatur, simili modo
+b
+lerminumcon­ cludit, ut in eadem propositione fuerat collocatus. Quare sedecim quidem vel viginti fiunt syllogismi ; assumptis namque primis hypotheticis propositio­ nibus, fiunt octo; octo vero si secundae praedicativae assumantur; quatuor autem his adjunguntur ex ter­ tio atque septimo modo utrobique colligentibus,ut omnes etiam in his propositionum complexionibus fiant sedecim vel viginti syllogismi. Quoquo autem alio modo assumptiones verteris, nihil evenit neces­ sarium.Ut autem omnis propositionum et syllogis­ morum ratio coilucescat, exempla subjecimus, qui­ bus facili us id quod superius docuimus colliquescat: si cum sit a,animatum est,b homo est,
+c
+animal; si cum est a,animatum est, b homo, non estcequus ;
+si cum sit a,animatum non est,b animal, est,
+c
+in- 1 sensibile; si cum sita,animatum non est,
+b
+animal non est,
+c
+homo; si cum non sit
+a
+invitale est
+b
+homo, est
+c
+animal; si cum non sit a, invilale est, b homo, non est
+c
+equus : si cum non sita, animal non est,
+b
+animatum, est
+c
+invitale; si cum non sit
+a
+invitale, non est
+b,
+animal non est,
+c
+homo.Ac de his quidem syllogismis qui talibus propositionibus connectuntur, quae ex hypotheca prædicativaque consistunt, sufficienter dictum est. Nunc de his di­ cendum est syllogismis, quorum propositiones ita tribus terminis continentur, ut mediae sint earum quae ex hypothetica prasdicativaque texuntur, et earum quæ ex duabus hypotheticis connectuntur, quas idcirco hoc loco proponimus, quia ut superio-
+res, ita haec quoque tribus terminis continentur,et a similibus ad similia facilior tractatus fiet. Harum vero sunt multiplices syllogismi, quorum nullus poterit esse perfectus, cum nee per se perspicuisint et ut his fides debeat accommodari, adjumento ex. trinsecus positae probationis indigeant. Est autem probatio talium syllogismorum alio constitutus or­ dine syllogismus; fiunt autem, ut dictum est, tum per primam, tum per secundam, tum vero per ter­ tiam figuram. Suntautem primae figurae propositio­ nes hæ :
+Si est
+a,
+est b, et si est
+b,
+est c.
+Si est a, est b, et si est b non est c.
+Si est a, non est
+b,
+et si non est
+b,
+est c.
+Si est
+a,
+non est
+b,
+et si non est
+b,
+non est
+c.
+Si non est a, est b, et si est b, est c.
+Si non est
+a,
+est
+6,
+et si est
+b,
+non est
+c.
+Si non est a, et si non est
+bf
+est c.
+Si non est
+a,
+non est
+b,
+et si non est
+b,
+non est c. Ergo si ratio colligentiae talis sit, ut constituat et confirmet asumptio quod enuntiatio primapronun­ tiat, sexdecim necesse est fieri complexiones, ex quibus octo tantum servant consequentias necessita­ tem, reliqua; vero octo nihil idoneum videntur ha­ bere ad fidem.jRursus si id quod prima propositio constituit, evertat assumptio, sic quoque sexdecim necesse estfieri complexiones, quarum octo firma
+necessitas tenet, octo vero reliquas infida saepius varietas tenet. Fiunt vero syllogismi, tum in prima figura, tum in secunda, tum vero in tertia. Omnes igitur trium figurarum modos a prima ordientes,ut nihil subterfugiat explicemus. Est enim primae fi­ gurae primus modus a prima veniens propositione, cum ita proponimus, si est a, est
+b,
+et si est
+b,
+ne­ cesse est esse
+c.
+Tunc enim si est a, etiam
+c
+esse necesse est, cujus hæc demonstratio est: nam si est
+a,
+consequitur ut sit
+b,
+idem enim quod proponit prima propositio, si sit
+a,
+esse
+b,
+at si
+b
+fuerit est c, id est enim quod secunda pars propositionis pro­ nuntiat, si sit 6, consequi necessario utc.Quibus ita concessis, evenit ut cum sit
+a,
+etiam
+c
+esse necesse sit; imperfeclum vero hunc dicimus syllogismum, quia testimonio probationis indiguit. Probatio vero
+ea fuit per syllogismum demonstratio, ita namque firmamustatisconsequentisenecessitatem.Cumenim ita proponeretur : si est
+a,
+est
+b,
+et si est
+b,
+necesse est ut sitc,poneretqueassumptio id quod affirmatio constituerat esse a, eamque sequi assumptionem ta­ lis conclusio diceretur, quod necessario essetc,ne­ que id esset ex ipsius syllogismi natura et proprie­ tate perspicuum, addita est probatio per syllogis­ mum hoc modo : si est
+a,
+est 6; at si est
+b,
+est
+c :
+si igitur est a, necesse est ut sit
+c.
+Et in reliquis quidem eamdem rationem exspectari oportere mani­ festum est.Et hæc quidem complexio ea est, quae id quod primo in propositione positum fuerat, assumit atqueconstituit,quodsi id ponendoquisquodseque­ batur assumat, nulla est necessitas syllogismi, ve-
+luti cum dicimus : si est
+a,
+est
+b,
+et si est
+b,
+ne­ cesse est esse c; atqui est
+c,
+non necesse est esse
+b
+vel non esse ; sed cum non sit necesse
+b
+esse vel non esse, non erit necessea esse vel non esse ; idem quoque talefirmabitexemplumjSi est homo, animal est, et si est animal, erit corpus animatum ; atqui est corpus animatum, non necesse erit animal esse, quocirca ne hominem quidem.Secundus quoque mo­ dus est hic primae figurae, cum ita proponimus, si est a, est 6, et si est b, necesse est non esse c, at vero est a, non est igitur
+c.
+Hujusdemonstratio talis est, nam si est
+a,
+est b, id enim prima conditio monstrabat, quae est, si sita esse
+b,
+cum vero sit
+b,
+necesse est non esse c. Id enim consequentia prae-
+ferebat,in qua pronuntiabatur,si esset b, consequi , ex necessitate ut non esset etiam c, si igitur sit a, non erit, quod si id quud propositio ultimum con­ stituit ponat assumptio,id est non esse c,nullus est syllogismus.Nam si de aliqua re ita proponatur,si homo sit, est animal, et si est animal, non esl la­ pis, at non est lapis, non necesse erit aut esse aut non esse animal; eodem modo nec hominem,potest enim si lapsis non sit esse lignum,vel caetera quas nec animalia sunt, nec inter homines numerantur. Tertius vero modus est primae figurae, cum id as­ sumptio cons!ituit,quod propositio prima ponebat, cujus ex tertia propositione principium est cum ita proponimus : si est
+a,
+non est b, et si non est
+b,
+necesse est esse
+c.
+Hic enim rursus, si
+a
+terminus
+assumatur,ita ut in prima est enuntiatione positus, ita dicetur, atqui est igitur a,est igitur c. Probatio vero similis est superioribus, nam quia est a, non est
+b,
+et quia nun est 6, est c, quia igitur est a, est
+c.
+Quod si c terminus assumatur, nibil neces­ sarium fiet, ut si ita proponamus : si homo est, non est insensibile, si non est insensibile, animal est, est autem animal, non est necesse esse homi­ nem.Quartus modus est qui ex quarta propositione principium capit,qui ex tali propositione formatur: si est a, non est b, et si non est b, non est etiam c ; hic enim si
+a
+est, necesse est non esse c. Demon­ stratio vero eadem est quae in prioribus modis. Quod si non esse c assumalur,nuIla erit necessitas com­ plexionis hoc modo. Age enim proponatur, si est homo,ncn est irrationale, et si irrationale non est,
+non est inanimatum : atqui non est inanimatum, non necesse est esse hominem.Quintus modus est ex quinta enuntiationedescendens,cujusprima talis est propositio, si non est a, est b, si est b, etiam c necesse est esse: atqui non est a, c igitur necesse est esse. Hie quoque prius dicta conditio facit conse­ quentiam necessitatis,at si id quod est c assumatur, nulla necessitas eveniet.Sit enim propositio : si non est irrationale rationale est,et si ralionale est, ani­ mal est, et si assumamus, sed est animal, non ne­ cesse erit vel esse, vel non esse irrationale. Sextus modus est quem sexta propositio facit; si non est
+a,
+est
+6,
+et si est
+b,
+non est c, atqui non est
+a,
+non est igitur c. Similis vero superioribus est de­ monstratio : at si c assumatur, eodem modo nul-
+lus est syllogismus, nam si sit propositio, si ani­ matum non est, inanimatum est,et si inanimatum est,sensibile non est; si assumamus, atqui non est sensibile,non necesse erit vel esse vel non esse ani­ matum.beptimus modus est,qui ex septima propo­ sitione est, si
+a
+non est,
+b
+non est, et si
+b
+non est, necesse est esse c , atqui non est a, necesse est igi­ tur esse c ; quod si
+c
+assumatur, nihil fit necessa­ rium,nam si proponamus,si non est animatum,non est animal,et si animal non est,insensibile est; as­ sumamusque,atqui est insensibile, non necesse est vel esse vel non esse animatum.Octavus modus est qui ita proponitur; si non est
+a,
+non est
+b,
+et si
+non est b, necesse est non esse c ; atqui non est a, non est igiturc ; quod si c assumatur,nnlIa eritne­ cessitas.Age enim ila proponamus: si non est ani­ matum,non estanimal,etsi non est animal,necesse est non esse sensibile; at non est sensibile.non ne­ cesse erit non esse animatum,ut arbores,herbas, et quidquid vitali tantum anima,non etiam sensibili ve­ getatur. In prima igitur figura ex tribus terminis fiant hypotheticæ sex decim complexiones,ita utid quod po­ situm est in propositione,id in assumptione quoque ponatur;octo,siaterminusinassumptione ponatur; octo vero,si c. Quod si
+a
+terminus ponendo assuma­ tur,erunt octo necessarii syllogismi ; si vero c ter­ minus ponendo assumatur,nullus efficitur syllogis­ mus. Eodem quoque modo syllogismorum comple-
+xionumque ordo constabit, si id in assumptione, quod in propositione positum fuerat,auferatur.Fient quippe sexdecim complexiones, quarum octo quidem ubi id quod sequitur aufertur, integra ne­ cessitate perdurant, octo vero in quibus id quod praecedit aufertur, necessitatem in eadem ratione conservant.Horum vero omnium subdantur exem­ pla.Primus igitur modus hic est: si est a,est b, et si est 6, eliam c esse necesse est: at non est c, igi­ tur
+a
+non est; quod si assumamus, at non est
+a,
+nihil eveniet necessarium.Sit enim propositio heec ; si horno est,animal est,et si animal est,animaturn esse necesse est: atqui non est homo, non igitur necessse erit ut si vel non sit animatum. Secundus modus est: si est
+a,
+est 6 >, et si est
+b,
+non esse c necesse est: atqui est c, igitur
+a
+non erit; quod si
+assumamus ita : atqui non est a,non necesse erit c esse vel non esse,nam si sit propositio talis,si homo est, animal est, et si animal est, lapis non est, si assumamus, atqui non est homo, non necesse erit lapidem esse vel non esse. Tertius modus est: si est a, non est b, et si non est b,necesse est esse c ; atqui non est c, necesse est igitur non esse
+a
+i quod si
+a
+terminum tollatassumptio,nihilevenitne­ cessarium. Age enim sit propositio : si homo est, non est inanimatus, et si inanimatus non est, ani­ matum esse necesse est; atqui non est homo, non necesse est esse vel non esse animatum. Quartus modus : si est
+a,
+non est b, et si non est b,necesse est non esse c; at est c, igitur
+a
+non erit; quod si assumamus non esse a,nulla complexionis necessi-
+tas invenitur, nam si sit propositio, si homo est, non est irrationale,si irrationale non est,inanimatum eum non esse necesse est ; atqui non est homo, non necesse est eum esse vel non esse inanimatum. Quintus,si
+a
+non est,
+b
+est,et si
+b
+est, etiam c esse necesse est ; atqui non est c, igitur a esse necesse est; quod si a terminus assumatur,nullus fiet syllo­ gismus : sit enim propositio,si irrationale non est, rationale est, et si rationale est, animal est; atqui irrationale est, non necesse erit esse vel non esse animal. Sextus, si non est
+a,
+est &, et si est
+b,
+ne­ cesse est c non esse; atqui est c, igitur a eshe ne­ cesseest; quod si
+a
+terminum sumam,nulIa necessi­
+las invenitur: sit enim propositio talis,si animatum non sit,inanimatum est,et si inanimatum est,sen­ sibile non est; atqui animatum est, non erit ne­ cesse vel esse vel non esse sensibile. Septimus, si non est a,non est b,et si non est b,necesse est esse c ; atqui c non est,igitur
+a
+esse necesse est; quod si
+a
+terminum sumpserimus,complexio nullam faciet necessitalem: sitenim propositio talis,si animal non sit, non est rationale, si rationale non est, irratio­ nate est, et assumamus, atqui animal est, non ne-
+cesse est vel esse irrationals, vel non esse. Octavus modus est qui hac propositione formatur,si non est a,oon est b,et si
+b
+non est,c non esse necesse est; atqui est c,igitur
+a
+esse necesse est. Quod si
+a
+ter­ minum sumpseris,non fiet ulla necessitas : sit enim propositio, si non est animal, non est homo, et si non est homo, necesse est non esse risibile; atqui est animal,non necesse erit esse vel non esse risibi­ lp. Ac de prima quidem figura satis dictus est, se­ quenti vero volumine de secunda tractabitur.
+LIBER SECUNDUS.
+Couditionalium propositionum,quæ tribus termi­ nis constant, secunda figura est quoties cum aliquid dicitur, vel esse vel non esse consequitur, ut duo quasdam vel esse vel non esse 'Jicantur. Variantur autem in ipsis propositionibus vel etiam in conclu­ sionibus secundum assumptionis ordinem multis modis ; quod ut facilius innotescat, primum cunctae propositiones in ordine digerantur, in quibus illud est preedicendum,quod saspesequimodaepropositio­ nes ponuntur, sæpe vero non. Ac de aequimodis qui­ dem nullusestsyllogismus ; aequimoda enim propo­ sitio est si ita dicamus, si a est, b est,et si est a, non estc ; atsi sint ina'quimodae, laciuntsyllogismulll.ln eequimoda vero secundas figurae propositio estin his syllogismishypotheticis quorum enuntiationes tri­
+bus terminis componuntur, veluticum itaproponi­ mus: si est a, est b,si autem non est a, est c.Hujus pro­ positionis tale intelligatur exemplum, si animal est, animatum est, si animal non est, insensibile est, hic igitur animal quod est,
+a
+non est; uno modo propo­ situm in utrisque, sed ad
+b
+quidem affirmative, ad c vero negative conjungitur, et id vocatur non æqui­ mode praedicari. Quod si in utrisque
+a
+esse vel non esse poneretur, aequimoda praedicatio diceretur. Disponantur igilur (ut dictum est) omnes non aequi­ modee propositiones hoc modo, si est a, est b, si non est
+a,
+est c, si est
+a,
+est
+b,
+si non est a, non est c, si est a, non est 6, si non est a, est c, si est a, non est
+b,
+si non est
+a,
+non est c. Nunc igitur
+a
+qui­ dem esse positam est cum b, non esseverocum c.
+Rursus a non esse ponamus cum
+6,
+esse vero cum c ; si non esta, est
+b,
+si est
+a,
+est c, si non est
+a,
+est
+b,
+si est a, non est c, si non est
+a,
+non est
+Ii,
+6, si est
+a,
+est c, si non est
+a,
+non est
+b,
+si est
+b,
+non est c. Si igitur non sit aequimoda propositio, assumpto quidem
+b
+fiunt sexdecim complexiones, quarum tan­ tum octo sunt syllogismi. Rursus si assumaturl', sic quoque sexdecim complexiones fiunt, sed in octo tantum syllogismorum deprehenditur firma neces­ sitas. Sit igitur primus modus secundas figuræ hic ex prima veniens propositione, si est a, est b,si au­ tem non est
+a,
+est c; dico quoniam si non est, b, est
+c,
+quoniam enim si est
+a
+est
+Ii,
+secundum ordinem consequentiae si non est b, non erit
+a
+; atqui si non esset a, esset c, si igitur non sit
+b
+; erit c ; quod si
+idem
+b
+esse ponatul',nihil evenit necessarium.Age enim si-t b, non necesse est esse vel non esse a. Nihil igitur sequitur necessarium,ut sit vel non sit c,ut si sit
+a
+animal,6 animatum,c insensibile : nam si est animal, est animatum ; si vero non est ani­ mal, insensibile est; atqui si sit animatum, non necesse est esse animal,vel non esse,non est igitur necesse esse insensibile vel non esse ; quod si
+c
+ter­ minus assumatur,siquidem non esse ponatur, erit necessario 6 ; si vero esse, nullus erit syllogismus, nam si non est £,est a,at si est a,est b,si igitur non est c,est b,quod si est c,non necesse est esse a,aut fortasse necesse sit non esse.Hsec enim propositio, idem si nun est a, est
+c,
+in talibus tantum evenit, in quibus alterum eorum esse necesse sit; quod si
+est c, non erit a, si non est a, nihil ad
+b,
+veluti si est insensibile,non erit animal,at si non sit animal, nihil animatum vel esse vel non esse necesse erit. Ex secunda rursus propositione fit syllogismus cum ita proponimus : si est a,est b,si non est a,non est
+c;
+dico quia si non est h, non est
+c,
+propositum quippe est,:si est a, est b ; ordo vero consequentiae est, si non est b,non est a,quod si non est a, non est
+c,
+si igitur non est b, non est c ; quod si fuerit b, non necesse est esse c, sit enim a animal,6 ani­ matum,c rationale,et proponatur,si animal est,ani­ matum est, si animal non est, rationale non est: atqui est, animatum non necesse est esse animal, quo fit ut ne rationale quidem ; quod si
+c
+terminum dicat assumptio, si quidem
+c
+terminus affirmatus fuerit, erit h \ quod si idem
+c
+terminus abnuatur, nullus est syllo-nsmus ; nam quoniam si est a,erit b,si non est
+a,
+erit c, si est
+c,
+erit
+a;
+at cum est a, est
+b,
+si igitur
+c,
+erit b,quod si non sit c,nihil sit necessarium, nam in hac propositione quae dicit,si animal est,anima­ tum est, si animal non est, rationale non est, as­ sumamus,atqui non est rationale, non necesse erit vel esse vel nun esse animal,quocirca ne animatum quidem.llem ex tertia propositi one laJisl-st sylIogis­ mus si esta, non est b, et si non est a,est c; dico quia si
+b
+est, est
+c,
+nam quoniam ita propositum est, si est a, non est b, necesse est consequi, ut si sit b,non sit
+a
+; at si non sit a,erit c ; si igitur
+b
+sit, erit c; quod si non sit b,nibil est necessarium ; sit enim
+a
+animal,5 inanimatum,c insensibile : in hac
+propositione quae dicit, si est animal, non est in­ animatum, si non est anirnal,est insensibile,si as­ sumamus, non est inanimatum, non necesse erit animal esse vel non esse, quare ne insensibile qui­ dem. Si vero a
+c
+termino fiat assumptio, si quidem non sit I:, non erit
+b
+; si vero
+c
+sit, nulla necessitas erit conclusionis, nam quoniam ita propositum est, ut si sit,a, non sit
+b,
+si vero non sit
+a, c,
+ea re­ rum est consequentia, ut si non sit
+c,
+sit
+a
+; in his enirn tantum terminis dici potest,quiamedietatepri­ vati sunt; at si sit
+a,
+non est
+b.
+Si igitur non sit
+c,
+non erit
+b
+; quod si sit c, nullus est syllogismus ; nam in hac propositione quae dicit, si est animal, non est inanimatum, si vero non est animal, insen­ sibile est,assumat aliquis esse insensibile,sequitur
+quidem ut non sit animal,sed non sequitur utvel sit vel non sit animatum. Ex quarta propositione est syllogismus ita : si
+est a,non
+est b,si non est a,non est
+c
+; dico quoniam si est
+b,
+non est
+c,
+nam quo­ niam ita propositum est, si est a, non est h,eo re­ rum consequentia est, ut si sit
+b,
+non sit
+a
+; atqui cum non sit
+a,
+positum fuerat non esse c. Si igitur sit b,non est c;quod si
+b
+non esse assumatur, nullus erit syllogismus. Age enim sit
+a
+quidem animal,
+b
+inanimatum,
+c
+rationale, et sit haec propositio, si est animal, non estinanimalum, si non est animal, non est rationale;assumamusigitur non esse inani­ matum, non necesse erit esse animal,quocirca noc rationale.Rursus si
+c
+terminus assumatur, si qui­ dem esse ponatur,necesse erit non esse
+b.At
+si non est
+c,
+nullus est syllogismus,nam quoniam propo­
+situm est, si
+a
+sit, non esse
+b,
+si
+a
+non sit, non esse
+c,
+necesse est ut, cum sit c, sit etiam a, at si eit
+a,
+non sit
+b,
+si igitur sit
+c,
+non erit
+b
+; quod si
+c
+non esse ponatur, nullus est syllogismus,veluti in hac propositione, si est animal non est inanima­ tum, si non est animal, non est rationale. Si quis igitur assumat non esse rationale, non necesse erit esse vel non esse animal, quocirca ne inanimatum quidem esse vel non esse. Atque in his quidem quatuor propositionibus,ita
+a
+terminus positus est, ut ad
+b
+quidem esse diceretur, ad
+c
+vero non esse; quod si ordo mutetur,rursus quatuor erunt alii syl­ logismi,si b terminus assumalur,quatuoretiam alii, si c;ex utraque autem parte quaternæ complexiones erunt, quae nullos faciunt syllogismos. Si enim
+quinta propositio, si non est, a, est b,si est a, est c ; dico quia si non est
+b,
+crit c ; assumantur enim, atqui non est b,erit igitura,hic enim consequentiae ratus esse constabat. Sed cum est
+a,
+est c,si igitur non est
+b,
+erit c, quod si
+b
+esse ponatur, nihil sit necessarium, si enim est
+b,
+non erit
+a,
+quod si
+a
+non es£nihil ad c,quocirca nullus est syllogismus. Non esse autem
+a,
+si
+b
+sit, ea propositio demon­ strat,per quam dicimus,si non est a,est b.Hoc eni:n in immediatis tantum contrariisevenit.Age enim sit
+a
+quidem anirnal,b vero insensibile3c vero anima­ tum, et proponatur, si animal non est, insensibile est, si animal est,animatum est,et ponatur esse in-
+sensibile, necesse est non esse animal. Sed non amimatumquidem vel esse vel non esse necesse est, quod si
+c
+terminus assumatur, si quidem negative, faciet syllogismum, affirmative vero, nullo modo, nam si non est
+c,
+non est
+a.
+Quod si non esta, est
+b,
+si igitur
+c,
+non est
+b,
+quod si sit c, non necesse est esse vel non esse a, quo fit ut ne b quidem esse vel non esse necesse sit,nam si est animatum, non necesse est esse vel non esse animal,cum vero animal non sit,non necesse est insensibile vel esse vel non esse. Propositio vero eadem est quae supe­ rioribus. Rursus ex sexta propositione fit syllogis­ mus hoc modo : si non est
+a,
+est
+b,
+et si est a, non est
+c
+; dico quia si non est
+b,
+non erit
+c,
+si enim non est
+b,
+est
+a,
+at si est a,non est
+c,
+si igitur non
+est
+b,
+non erit c,quod si
+b
+terminum ponat assum­ ptio,nulla est necessitas conclusionis,si enimestfi, non est a,id enim ex superioribus manifestum est, at si non est a, nihil ad
+c,
+tunc enim
+c
+non erat, si esset
+a
+; exemplum vero hoc est, ut si sit
+a
+animal,
+b
+insensibile,c inanimatum.Si igitur sit propositio talis, si non est animal, est insensibile, si est ani­ mal,non est inanimatuui. Atqui est insensibile,non est igitur animal, sed non consequitur ut sit vel non sit inanimatum, quod si cterminum sumpse­ rimus,si quidem affirmes,facies syllogismum, nam si est £non erit a, quod si
+a
+non sit,erit
+li.Si
+igitur
+c
+fuerit, erit
+b.
+At si negaveris c, nihil est neces­ sarium. Si enim assumamus, atqui non est
+c,
+non necesse erit esse vel non esse a, quocirca ne
+b
+quidem.Nam si inanimatum negaveris,nonnecesse
+est esse vel non esse animal, quocirca ne insensi­ bile quidem esse vel non esse. Ex septima propo­ sitione conclusio est cum ita proponimus, si non est a, non est
+b,
+sit est
+a,
+est c; dico quia si est
+b,
+erit c,n'lm quoniam ita propositum est,si non esset a, non
+esse b,
+erit a, si sit
+b.
+Atqui si sit a,erit
+c.
+Si igitur sit
+b,
+erit
+c,
+quod si
+b
+terminum neget as­ sumptio, nulla erit in conclusione necessitas : nam si non sit b,nibil erit necessarium esse vel non esse a, quocirca ne
+c
+quidem velut in his terminis, si enim sit
+a
+animatum,
+b
+animal, c vivere, si sic enuntiemus,si non est animatum, non est animal, si est animatum vivit, si igitur assumamus, atqui non est animal, non necesse est esse vel non esse animatum,quocirca nec vivere,quod si assumamus
+c
+terminum,si quidemnegemus,erit syllogismiper­ fecta necessitas; si vero affirmemus,nulla est con­ clusio. Nam si non est
+c,
+erit a, si non est a, non
+erit b,
+si igitur non sit c, non erit
+b,
+quod si affir­ metur c, nihil est necessarium, sive enim necesse est esse, sive non necesse est esse
+a,
+nihil ad
+b,
+ut in superioribus terminis poterit ostendi: si enim vivit, et si necesse est esse animatum, non ne­ cesse est tantum esse animal vel non esse; quod si non est necesse esse animatum, non necesse est esse vel non esse animal, ut vero necesse sit non esse animatum, fieri non potest. Ex octava propo­ sidone conclusio talis est, cum ita proponitur : si
+non est
+a,
+non est
+b,
+et si a, non est
+c:
+dico j quoniam si est £,non est c,nam si est b,est a, quod si est
+a,
+non est c, si igitur est
+b,
+non erit c; quod si
+b
+terminum neget assumptio, nihil est ne­ cessarium, si enim non sit
+b,
+non necesse erit
+a
+esse vel non esse, quo fit ut ne
+c
+quidem, velutin his terminis, si sit
+a
+animatum,
+b
+animal,
+c
+inani­ matum.Si igiturproponamus,si non est animatum, non est animal, si est animatum,non est inanima­ tum, et assumamus, sed non est animal, non ne­ cesse et esse vel non esse animatum, quocirca ne inanimatum quidem, at si c terminus assumatur, si quidem cum affirmatione ponatur,eritnecessitas syllogismi, nam si est c, non est a, quod si non est
+a,
+non est
+b,
+si igitur est
+c,
+non est
+b;
+at si
+c
+ter-
+mimun negetassumptio,nihil estnecessarium,nam si non est
+c,
+non necesse erit esse vel non esse
+a.
+Quo fit ut ne
+b
+quidem,nam si non est inanimatum, fortasse quidem sit necesse esse animatum,sed non necesse est animal esse.Invenientur autem termiai in quibus non necesse sit esse a,veluti si ponamus
+c
+nigrum,
+a
+album,negatio nigro non consequitur ut affirmetur album.Et secundae quidem figuraein aequimodas complexionesomnes(ut arbitror) expli­ cuimus, si vero aequimodae sint, nullus omnino fit syllogismus.iEquimodse vero fiunt hoc modo: quo­ tiescunque enim
+a
+terminus ad bet ad csimul esse vel non esse ponitur,quoquomodo
+b
+atque
+c
+termini varientur.Harum igitur quae .equimodaeesse dicun­ tur complexiones,nulla est complectibilis.Suntau­ tem omnes aequimodse complexiones hæ :
+Si est
+a,
+est
+b,
+si est a,est c, si est a, est
+b,
+si est a, non est
+c.
+Si est a, non est b, si est a, est c, si est a, non est
+b,
+si est a, non est
+c.
+Si non est a, est b, si non est a,est c, si non esta, est b.
+Si non est
+a,
+non est,
+c,
+si non est
+a,
+non est basi non est a,est
+c.
+Si non est
+a,
+non est
+b,
+si non est a, non est c.
+Quarum imbecillam conclusionem atqueomnica­ rentem necessitate,ex assumptionibus quoquo modo factis inveniamus, nec non secundum superius de­ scriptos modosetiamterminosfacillimereperire po­ tcrimus, per quos demonstretur nullam. in talibus
+complexioDibus inveniri posse constantiam. Ac de secunda quidem figura, quanti sint et quot modis fiantsyllogismidiligenter ostendimus.Fiunt autem, si inaequimodaa quidemcomplexiones fuerint,bter­ mino assumpto,syllogismi octo,totidemquecsi ter­ minus assumatur;sunt igitur secundae figuræ sede­ cirn syIlogismi,totidem vera
+b
+atquectermino,nonita ut oportet assumptis complexiones fiunt,qu ibus nihil admadumcolligatur.Nuncigiturde tertia figuradi­ cendumest.In qua quidem totidem complexiones fiuntettotidem syllogiemi,sed ita ut non aequimodae propositiones ponantur;quod si aequimodae fuerint, nullus omnino (ut in secunda figuradictum est)fiet
+syllogismus.Exponamusigituromnes figuræ tertiæ in aequimodas propositiones : si est 6, est a, si est
+c,
+non est a, si est
+bt
+est a, si non est c, non est
+a,
+si non est
+b,
+est a, si est c, non est a,si non est
+b,
+est
+a,
+si non est
+c,
+non est a. Et nunc quidem
+a,
+cum 6, esse, cum c,vero non esse propositum est. Rursus vero a quidem
+b
+non esse, cum
+c
+vero esse proponatur, si est
+b,
+non est a,si est
+c,
+est
+a,
+si est
+b,
+non est
+a,
+si non est
+c,
+est
+a,
+si non est
+b,
+non est a, si est
+c,
+est
+a,
+si non est
+b,
+non est a, si non est c, non est a. Tertiae igitur figurae primus modus est hujusmodi, si est
+b,
+est a si est c, non est
+at
+qui quidem diversusestasecundsefigurcepri­ mo modo. Illic enim si c esset vel non esset,
+b
+et
+c
+esse dicebantur. Nunc vero si
+b
+vel
+c
+fuerint,
+a
+vel
+esse vel non esse proponitur.Æquimodæ autem pro­ positiones non sunt,q uæ in alia parte a esse,in alia non esseconstituunt,velut in superius comprehensa propositione. Nam si est b,est a,si est e,non est a. Quibus ita positis,dico quoniam si est
+bt
+non essec necesse est. Si enim est
+b,
+est
+a,
+quod si esta,non est
+c,
+si igitur est £,non est
+c
+;quod si
+b
+terminus abnuatur, nullus est syllogismus,est enim,si
+b
+non sit, non necesse erit esse vel non esse a.Nec
+c
+igi­ tur necesse erit vel esse vel non esse, velut in hoc exemplo, si sit
+b
+animal,
+a
+animatum,c mortuum, et proponatur, si animal est, animatum est,simor­ tuum est,animatum non est.Atqui non est animal, non necesse est esse, vel non esse animatum.Quae enim non sunt animalia, possunt esse animata,ut arbores ;possunt esse non animata,ut lapides.Quo­
+circa si animal non fuerit,nemortuum quidem esse vel non esse necesse est. Plura enim non suntani­ malia, quae mortua non sunt, ut lapides,illa enim mortua dicuntur quae aliquando vixerunt. Ab as­ sumptione vero
+c
+termini affirmatio faciet syllogis, mum.Namsi
+c
+est,5 nonerit,si enimcest,nonesta. At si non sit a,non erit b,si igitur
+c est,b
+non erit. Negatio vero
+c
+nihil explicat necessitatis. Nam si non est c,non necesse est esse vel non esse a.Quo fit ut ne
+b
+quidem, nam si non sit mortuum, non est necesse esse animatum vel non esse. Quaedam enim quae non sunt mortua, animata sunt,ut arbo­ res. Quaedam vero cum mortua non sint, non sunt animata,ut lapides,quo fit mortuum destruatur.Ex secunda propositione hic modus est colligendi, si
+est b, est a si non est
+c,
+non est
+a;
+dico quidem si est
+b,
+erit
+c.
+Nam si est b,est a,quod si est a,estc. Ita enim convertitur talispropositio,quse ait,sinon est c, non est
+a,
+si igitur est, est
+c.
+Quod si
+b
+ter­ mimus negetur, nulla fit neccitas syllogismi.Nam si non est
+A,
+non necesse est esse vel non esse
+a.
+Quocirca ne ad
+c
+quidem ulla necessitas perveniet, ut in his terminis patet, nam si sit
+b
+animal,aani­ matum,
+c
+corporeum; et proponatur si est animal, est animatum,si non est corporeum, non est ani­ matum, et assumatur, atqui non est animal, non necesse est esse vel non esse corporeum,
+c
+vero terminus,si negetur,eritnecessilas syllogismi. Nam
+si non est c,non est
+a.
+Quod si non est a, non est
+b. ,
+Ita enim converti potest. Si igitur non est c, non erit
+b.
+Si affirmetur, c nulla est necessitas, nam si est corporeum, non necesse est animatum esse vel non esse.Quocirca nec animal quidem esse vel non esse necesse est.Tertia propositio talem recipit con­ clusionem, si non est
+b,
+est
+a,
+si est c, non est
+a ;
+dico quia si non est b,non erit
+c,
+si enim non sit, est
+b,
+est
+a.
+Quod si sit a, non erit c, ita enim po­ terat converti ea pars propositionis, quas, si esse
+c
+terminus,a terminum non esse dicebat.Fit igitur ut si non sit b,non sit c, quod si affirment esse
+b
+ter­ minum, nulla est necessitas conclusionis. Nam si sit
+b,
+necesse est quidem non esse
+a,
+sed non ne­ cesse est esse c,ut in his terminis,si sit
+b
+animatum,
+a
+animatum,
+c
+animal. Si quis igitur sic proponat, i si non est animatum,inaminatum est,si est animal,' non est inaminatum.Si igitur ponamus esse anima­ tum,sequiturquidem ut non sit inaminatum,sed non necesse est ut sit animal. Si c vero terminus affirme­ tur,fiet necessaria conclusio hoc modo.Nam si est c, non est a, si non est a, est
+b.
+Id enim sequebatur eam propositionem, quae ; si non esset
+b
+terminus,
+a
+terminum esse dicebat. Si igitur sit c,est
+b
+; quod si idemcterminusabnuatur,nullus estsyllogismus. Nam si non sit c,non necesse est esse vel non esse
+a.
+Quo fit ut ne
+b
+quidem.Nam si non est animat,non necesse est esse vel non esse inaminatum.Quocirca ne animatum quidem. Ex quarta propositione talis est syllogismus, si non est
+b,
+est
+a,
+si non est
+c,
+non est a ; dico quia si non est £,est
+c.
+Nam si non
+est b, est
+a,
+si vero
+a
+fuerit, neeesse est esse
+c.
+Id enim consequituream propositionis partem quæ ait, si non est
+c,
+non est a. Si igitur non sit b,est
+c.
+At si
+b
+terminus affirmetur,nullus est syllogismus. Se­ quitur enim ut non sit a,sed non sequitur ut sit vel non sit
+c,
+velut in his terminis. Nam si sit
+b
+quidem insensibile,
+a
+animal,
+c
+animatum, et proponatur, si non est insensibile,esL animal,si non est anima­ tum, non est animal, si sit insensibile, non est animal, sed non necesse est esse vel non esse animatum,cvero terminus si negetur,fiet protinus syllogismus. Nam si non est
+c,
+non est
+a,
+si non est
+a,
+erit b. Id enim consequitur eam propositionis partem quæ dicit, si non est & est
+a.
+Si igitur non sit
+c,
+erit
+b.
+quod si sit
+c,
+non necesse est esse vel
+non esse a.Quo fit ut ne
+b
+quidem. Nam si est ani- ; matum, non necesse est esse animal vel non esse. Quo fit ut ne insensibile quidem esse vel non esse necesse sit.Et hactenus quidem quatuor modos ita disposuimus,ut ad bterminum,quoquo semodo ha­ bet,a terminus esse poneretur, ad
+c
+vero non esse. Nunc iia statuamus, ut
+a
+terminus ad
+b
+terminum non esse dicatur, ad
+c
+vero esse, ordine scilicet commutato. Omnes vero esse non aequimodas pro­ positiones illud ostendit quod
+a
+quidem affirmative ad
+b
+est, ad
+c
+negative proponitur, aut si negative ad b,affirmativam ad
+c
+retinet enuntiationem.Quinta igitur propositio talem facit syllogismum,cum talis
+est propositio, si est
+b,
+non est a, si est c, est
+a ;
+dico quia, sit est
+b,
+non est
+c,
+nam si est
+b,
+non est
+a.
+Si vero non sit
+a,
+non est c, Id igitur talem propositionem consequebatur, quas si esset
+c
+ter­ minus
+a
+quoque esse dicebat, si est igitur b, non est
+c.
+A t si negetur
+b,
+nullus est syllogismus, si enim non sit
+b,
+non necesse est esse
+a.
+Quo fit ut nec ad
+c
+quidem necessitas ulla perveniat,et id ter­ minis idem patet, nam si sit
+b
+quidem mortuum,
+a
+animatum,
+c
+animal, et sit ita propositio, si est mortuum,non est animatum,si animal est, anima­ tum est,et assumamus non esse mortuum,non ne. cesse est esse vel non esse animatum,nam et quae adhuc animata sunt,et suae nunquam fuerunt, non sunt mortua, quocirca non sequitur ut sit vel non
+sit animal.Quod enim mortuum non est, potest esse animal, ut canis vivens, et non esse ut lapis. At si
+c
+terminus affirmetur,erit perfecta conclusio non esse ; nam si sit c, est
+a,
+si vero sit a, non erit
+b.
+Id enim consequitur superius positum propositionis modum ; si igitur sit c, non erit b, at si negetur c, neque ad
+a
+neque ad
+b
+necessitas ulla perducitur, velut in his terminis,nam si non est animal, neque animatum, neque mortuum vel esse vel non esse necesse eat. Sextae propositionis haec conclusio est, si est b, non est
+a,
+si non est
+c,
+est a ; dico quia si est
+b,
+erit
+c,
+nam si est
+b,
+non est
+a,
+si non sit
+a,
+erit
+c.
+Talis enim in hac parte pro­ positionis est consequentia. Si igitur sit b, erit
+c,
+quod si
+b
+terminusabnuatur,nihilnecessarium fiet, nam si non sit £,neca nec
+c
+terminos vel adesse
+vel non adesse sequitur ulla necessitas, ut in termi­ nis patet,
+Dam si sit b
+mortuum,
+a
+animatum,c in­ animatum, et proponatur, si mortum est; non est animatum,si inanimatum non est,esse animatum, si non sitmortuum,non necesseest esse vel non esse animatum.Quocirca ne inanimatum quidem ; atsic terminus assumatur,si quidem in negatione sitposi­ tus, fiet rata conclusio non esse
+b
+terminum, nam quoniam non est
+c,
+est
+a,
+at si sit
+a,
+non est
+b,
+si igitur non sit c,non erit
+b.
+Quod si affirmeturc ter­ minus, nihil est necessarium, neque enim si sit
+c,
+quamvis
+a
+non esse necesse sit, ad
+b
+terminum ne. cessitas nulla perveniet,ut etiam in terminis patet, nam si sit inanimatum,necesse est non esse anima­ tum, sed non necesse est esse mortuum. Septimae
+propositionis talis estsyllogismus. Enuntietur enim si non est
+b,
+non est
+a,
+si est
+c,
+est
+a;
+dico quia si non est
+b,
+non est c, si enim non sit
+b,
+non erit
+a,
+quod si
+a
+non fuerit, non erit c.Idem enim sequeba­ tur eam propositionem qua dicebatur, si esset c ter­ minus,a quoque consequi ut esset; si igitur nod sit b,non erit c ; quod si affirmetur b,nibil est necessa­ rium, neque enim si sit
+b,
+vel
+a,
+vel
+c,
+esse aut non esse necesee est, ut in terminis patet, nam si sit
+b
+animatum.a animal,c sensibile, et sit propositio, si animatum non est, non est animal,si sensibile est, animal est,siassumaturesse animatum, nequeani­ mal necesse est esse, neque sensibile. At si per
+c
+terminum fiatassumptio,Bi quidem affirmabilur,erit firma conclusio : sinegetur5nullus est syllogismus, nam si est
+c,
+est
+a,
+si sit
+a,
+erit
+b.
+Id enim conse­ quebatuream propositionem quae ait, si non sit b, non esse a ; si igitur sit £,erit
+b.At
+si idem
+c
+termi­ nus abnuatur,nihil est necessarium,nam si non sit c,neque ad
+a
+neque ad
+b
+terminum necessitas ulla constriogit,velut si non sit sensibile,non sit forsitan animal,sed non necesse est esse animatum. Repe­ rienturvero termini in quibus ne a quidem non esse necesse est. Octavus modus est in quo ita proponi­ tur,si non est
+b,
+non est
+a,
+et si non est c, est
+a ;
+dico quia si non est b,uon est
+c,
+si enim non sit
+b,
+non erit a.Quod si uon sit a,erit c, id enim conse­ quebatur eam partem propositionis,quas dicebat,si
+non est c,esi a.Si igitur non sit £,erit
+c
+; quod si
+b
+terminus affirmetur, nihil est necessarium,nam si sit b,neque esse neque non esse necesse est
+a
+termi­ num, quo fit ut ne
+c
+quidem. Id vero tali liquet exemplo,si sit
+b
+animatum,a animal,c insensibile, et proponatur,si non sit animatum,non est animal, sinon sit insensi bile,est animal.Si igitur affirmemus in assumptione
+b
+terminum, et dicamus, atqui est animatum,non necesse est esse vel non esse animal vel insensibile.QuocircanuIlusest syllogismus,at si
+c
+terminus abnuatur,fiet protinus syllogismus,nam si non est c, est a,si vero est a, erit b,si igitur non sit c,erit b ; quod si
+c
+terminus affirmetur,nihil est necessarium, nam et si
+a
+terminum non esse ne­ cesseest,quanturu ad bterminum nihil necessarium cadit; id vero tali demonstratur exemplo : si sit in­
+sensibile, non est animal, quod si non est animal, non necesse est esse vel non esse animatum.In non asquimodisigitur propositionibus sive
+b sive c
+termi­ nus assumatur,octo necesse est ex utraque parte fieri syllogismos.Reliquas vero ex utraque parte octenae complexiones necessitate privatæ sunt. At si sint æquimodæ, nullos omnino est syllogismus. Æqui­ modae vero dicuntur quoties
+a
+terminus ad utros­ que vel esse vel non esse proponitur.Omnes autem aequimodae propositiones sunt hujusmodi:
+Si est
+b,
+est
+a,
+si est
+c,
+est a.
+Si est
+b,
+est
+a,
+si non est c, est
+a.
+Si non est
+b,
+est
+a,
+si est
+c,
+est
+a.
+Si non est
+b,
+est
+a,
+si non est
+c.
+est
+a.
+Si est
+b,
+non est
+a,
+si est c, non est
+a.
+Si est b, non est a, si non est
+c,
+non est
+a.
+Si non est
+b,
+non est a, si est c, non est
+a.
+Si non est b, non est a, si non est c, non est
+a.
+In quibus etperconsequentiampropositionumsupe­ rius designatam,et perexempla currentes possumus lucide et constanter agnoscere, nullum omnino in syllogismis fieri necessitatem. Quocircacum tribus terminis texitur propositio, et ex prima quidem fi­ gura fiunt syIlogismi sedeeim,exsecunda syIlogisrni sedecim,ex tertia etiam totidem colliguntur,omnes ex tribus terminis syllogismi quadraginta octo sunt. Restat vero ut de his syllogismis nuncdicamusqui duabus hypotheticis connectuntur,quorum quidem
+consequentiæ similis modus est,ut in his propositio­ nibus quæ ex duabus categericis ac simplicibus effi­ ciebantur. In omnibus enim si quidem velimus astruere, primam totius propositionis assumemus partem,si vero in conclusione aliquid est destruen­ dum,secunda negabitur. Sive autem prima denege­ tur, sive posterior affirmetur, nulla fit omnino ne­ cessitas, nisi in quinta, septima tertia decima et quinta decimapropositiones.In quibus non comple­ xionis natura, sed terminorum proprietas conse­ quentiam facit,sicut in bissyllogismisfieri docujmus qui in his propositionibus constant,qua3duabussim­ plicibus continentur : horum autem omnium qui ex duabus hypotheticis constant, propositiones appo­ sui, quarum differentias cum lector agnoverit, ad
+earum exempla necesse est revertatur,quæ ex sim­ plicibus et categoricis junctae sunt. Sunt autem omnes propositionum differentiae, quae ex duabus hypotheticis copulantur hujusmodi :
+Si cum est
+a,
+est
+b,
+cum sit
+c,
+est
+d.
+Si cum est
+a,
+est
+6,
+cum sit c, non est
+d.
+Si cum est a, est
+b,
+cum non sit c, est
+d.
+Si cum est
+a,
+est
+b,
+cum non sit
+c,
+non est
+d.
+Si cum sit
+a,
+est non
+6,
+cum sit
+c,
+est
+d.
+Si cum sit
+a,
+non est
+b,
+cum sit
+c,
+non est
+d.
+Si cum sit
+a,
+non est b, cum non sit c, est
+d.
+Si cum sit
+a,
+non est b, cum non sit
+c,
+non est
+d.
+Si cum non sit a, est b, cum sit
+c,
+est
+d.
+Si cum non sit
+a,
+est
+b,
+cum sit
+c,
+non est
+d.
+Si cum non sit
+a,
+est
+b,
+cum non sit
+c,
+est
+d.
+Si cum nou sit a, non est
+b,
+cum sit
+c.
+est
+d.
+Si cum non sit
+a,
+non est
+b,
+cum sit c, non est
+d.
+Si cum non sit a, non est
+b,
+cum non sit c, est d,
+Si cum non sit
+a,
+non est b,cum non sit c,non est
+d.
+In his quoque propositionibus illud inspiciendum est quod cum sedecim sint,octo quidem ita variantur, ut tamen in omnibus a terminus esse ponatur,octo vero ita,ut idem
+a
+terminus non esse dicatur. Non vero quoquo modo positae fuerint habebuntvim con­ ditionalium propositionum ex duabus hypotheticis constantium. Namsi quis sic dicat,si cum homo est, animal est, cum sit animatum, corpus esl,non fecit eam propositionem qaae ex duabus conditionalibus constat.Nequeenim idcirco quod animatumest,ani­ mal est,quia qui homo est, animal est,nec conditio
+sequitur conditionem ; sed si eas separes, per seque pronunties,utraquehabeiin terminorum consequen­ tia necessitatem.Nam et qui homo est animal est,et quod animatum est corpus est,et per se istaE: propo­ sitiones veræ Esunt,nec conditionej unguntur. Ut igitur singulariu rn natura clarescat,de u naquaque estdisse­ rendum.Primaigitur propositio talis esse debet,ut si sit tl positum,b terminus non continuo subsequatur, itemque si cponatur,non necesse sit tfterminumcon­ sequi,sed posito quidem otermino;terminum c,posi­ to vero b,terminum desse necesse sit. Tunc enim eve­ niet ut si,posito
+a, fuerilft,
+necesse sit c posito sub­ sequi
+d,
+ut si sint termini
+a
+homo,b medicus,
+c
+ani-
+matum,
+d
+artifex. Posito enim homine non neoesse, est ut medicus sit, etcumsitanimatum, non necesse est ut artifex sit. At si homo sit, necasse est ut sit animatum, et si medicus est, necesse est ut artifex sit. Hoc itaque posito, eveniet ut si cum homo sit, medicusest, cum sit animatum, sitartifex. Secunda propositio ita esse debet, ut
+a
+atque
+b,
+item catque
+d
+præter se esse possint, sed
+a
+praeter
+c
+esse non possit,
+b
+autem atque
+d
+simul esse non possint. Tunc enim eveniet ut si posito
+a
+termino,
+b
+fue­ rit consecutum, posito
+c
+non esse
+d
+necesse sit, ut si sit
+a
+homo,
+b
+niger,
+c
+animatum, d album ; homo namque præter nigrum, et animatum præter album et esse et non esse potest, homo vero præter anima­ tum nigrumautcumalboesse non possit, evenitque
+ut si cum sithomo, niger est, cum sitanimatum non sitalbus.Item tertiae proposi tion is tales term inos esse oportebit, ut
+a
+praeter 6 esse possit, cvero vel eum
+a
+vel cum
+d
+esse non possit, quocirca evenit ut si posito
+a
+termino fuerit
+b,
+negato
+c
+termino
+d
+esse necesse sit, ut sit
+a
+quidem animatum,
+b
+medicus,
+c
+inanimatum,d artifex, animatum enim præter me­ dicum esse potest, inanimatum vero neque cumani­ mato neque cum artifici jungi potest; itaque si cum animatum est, medicus est, cum inanimatum non sit, artifex est. Quarta propositio his terminis con­ texenda est, ut
+a
+quidem cum
+b
+termino,
+c
+autem cum
+d
+vel esse vel non esse possit. Neque vero
+a
+cum
+c,
+neque
+b
+cum
+d,
+ullo modo esse possibile sit, Tunc enim evenit ut si
+a
+posito,
+b
+subsequatur,
+c
+negato, negetur etiamd, ut si sita homo, b, niger
+c
+inanimaturn,dalbum,bomo quidem præter nigrum, inanimatum vero praeter album et esseet non esse potest; neque tamen homo cum inanimato, neque nigrum cum albo esse possibile est; si tamen cum homo sit, niger est, sequitur ut cum non sit inani­ matum, non sit album. Quintæ propositionis haec membra sunt, ut
+I!
+praeter b, et
+c
+præter d esse et non esse possint, sed
+a
+præter
+c
+esse non possit,
+b
+atque
+d
+nunquam simul esse possint, ita ut si alterum non sit, alterum esse necesse sit, tunc enim eveniet ut si
+a
+posito
+b
+negetur,
+c
+posito
+d
+subsequatur, ut si sit
+a
+quidem homo,
+b
+aeger,
+c
+animatum;
+d
+sanus, homo quidem praeter aegritudinem, animatum vero praeter sanitatem et esse et non esse potest; sed si homo sit, animatum esse necesse est, et si non sit
+aeger, sanum esse necesse est: itaque fiet ut si cum homo sit, non sit aeger, cum sit animatum, sit sanus sexta propositio hos terminos hahere deside­ rat, ut
+a
+praeter b, et
+c
+praeter
+d
+et esse et non esse possit. Idem vero
+a
+praeter
+c, etd
+praeter
+b,
+esse non possit. Tunc enim eveniet ut si
+a
+posito non est
+b,
+posito
+c
+non sit
+d,
+ut si sit a homo,
+b
+artifex,
+c
+ani­ matum,
+d
+medicus,homoquidem praeter artificium, et animatum vero praatermedicinamesse et non esse potest, neque vero homo præter animatum, neque medicus praeterartificium esse potest. Quo fit ut si cum homo est, artifex non est, cum sit animatum, non sit medicus. Septimae propositionis hi termini
+sunt,ut a quidem præter b esse possit, c vero neque
+cum d
+neque
+cum a
+esse possit,b etiam cum c simul essenon possit,ita namque evenit ut si,posito a esse,
+b
+denegetur,negato
+c
+terrnino,d sequatur, utsi
+a
+qui. dem sitanimatum,bsanum,c inanimatum, d ægrum. Animatum quidem praeter sanitatemetesseetnon ese potest.Inanimatumvero neque cum animato neque cum aegro convenire potest. Quo lit ut si cum ani­ matum est, sanum non est,cum non sit inauima­ tum,ægrum sit.Item octava propositio his terminis copulanda est, ut
+a
+quidem prater
+b
+terminum et esse et non esse possit,c vero neque cum a neque cum
+d
+esse possit,sed
+d
+praeter
+b
+esse non possit. Hoc enim pacto eveniet ut si
+a
+posito,bdenegbtur,dene­ gato c termino,d terminus non sit,ut si sit animatum,
+b
+artifex,c inanimatum,
+d
+medicup. Animatum enim praeter artificium et esse etnon esse potest. Inani­ matum vero nequecum animato,nequecum medico convenit. Medicus vero praeter artilicium esse non pot est, unde evenit ut si cum nnimalum est, non sit artifex, cum non sit inanimatum,non sit medicus. Nonapropositio.fiet,si
+a
+quidem atque b simui esse non possint,c vero possit esse praeter
+d,
+cum
+a
+vero esse non possit.Tunc enim eveniet ut si
+a
+denegato,
+b
+esse consequilur,
+c
+posito,
+d
+sequatur, ut si sita quidem inanimatum,
+b
+medicus,c animatum,d arti­ fex.lnanimatum quippe medicus esse non potest, animatum vero potest non esse artifex, inaminatu:n veroatqueanimatumsimulesse non potest. Quo fit ut si cum non est inanimatum,medicus sit, cum sit animatum sit artifex.Decimam propositionem tales
+termini copulabunt,ut
+a
+quidem præter
+b,
+at vero cpraeter rfesse possit, sed
+a
+cum c, et
+b
+cum
+d
+esse non possit, ita enim proveniet ut si negato
+a
+esse,
+b
+consequatur,posilo
+c
+termino,d non esse necesse sit, ut si
+a
+inaminatum,
+b
+nigrum,
+c
+animalum,
+d
+album.Inanimatum quippe praeter nigrum,et ani­ matum praeter album et esse et non esse possunt. Sed inanimatum cum animato,et nigrum cum albo simul esse non possunt.Sedsi negatum fuerit in ani­ matum et consecutum sit nigrum, posito animato album esse negabitur.Item undecima propositio ea sit, ut neque
+a
+cum 6,neque
+c
+cum
+d,
+simul esse possil,a vero sine c, et
+b
+sine
+b
+esse non possit, ita enim si cum
+a
+sit negatum,
+b
+sequalur,cum
+a
+nega­ bitur,d esse necesse est,ut si sit
+a
+inanimatum,
+b
+medicus,c invitale,
+d
+arlifex,inanimatum quidem medicus esse non potest, quocirca ne invitale qui­ dem artifex : sed quod inanimatum est, non potest. non esse invitale, itemquequi medicus est non po­ test non esse artifex. Si igitur inanimatum negetur et medicum esse consequatur, cum negabitur esse invitale,artifex esse consequitur.Duodecima propo­ sitio est quam talibus terminis constare oportebit,ut
+a
+quidem praeter,
+b,
+at vero
+c
+praeter
+d
+vel esse vel non esse possit;Qvero sine c, et b cum
+d
+esse non possint, ita enim cadet ut si
+a
+negato,
+b
+sequatur,
+c
+negato, etiam negetur,ut si fuerit
+a
+inanimatum,
+b
+album,
+c
+invitale, a nigrum, inanimatum quidem
+præter album ,invitale ,autem praeternigrum vel esse vel non esse potest.Si tamen inanimatum homo sit, et sit album,cum invitale non sit, non erit nigrum. Tertia decima propositio his terminis connectenda est,ut
+a
+quidem praeter
+6,
+at vero
+c
+praeter
+d
+esse possit,
+a
+vero atque c, et
+b
+atque,
+d,
+ita I;imul esse non possint, ut si alterum eorum non fuerit alterum esse necesse sit, ita namque fiet ut si'cum
+a
+nega­ tum sit,
+b
+negetur,cum
+c
+affirmatum fuerit,
+d
+affir­ metur,ut si sit
+a
+irrationabile,b aegrum,
+c
+rationa­ bile,
+d
+sanum.Irrationabile namque prseteraegrum, et rationabile praetersanitatem esse potest,irraliona­ bile vero atque rationabile, et aegrum atque sanum simul esse non possunt; si tamen alterumeorumnon fuerit,alterum esse necesse est,itaque fit ut si irra-
+tionabili denegatoa;grum denegetur,rationali posito sanum ponatur.Quartadecima propositio bis texencla membris est,ut
+a
+quidem præter b,et
+c
+praeter desse possint,sed
+a
+atque
+c
+simul esse non possint, ita ut cum alterum non fuerit, alterum esse necesse sit,
+d
+vero preter
+b
+esse non possit.Fit igitur ut si cum sit
+a
+denegatum,fr denegetur,cum sit c,non sit
+d,
+ut si sil
+a
+inanimatum,b artifex,
+c animatnm, d
+mecli­ cus.Inanimatumquidempraeter artificem animatum vero praeter medicum esse potest, inanimatum vero cum animato non convenit, et medicus ab artifice nullo modo separatur.Fit igitur ut si cum non est inanimatum,non sit artifex,cum sit animatum non rit medicus. Quinta decima propositio hos terminos habere debet,ut a quidern si non sit, c non esse ne­ cesse sit,
+b
+vero atque
+d
+talia sint, ut altero eorum
+negato, alterum eorum esse necesse sit.Ita namque fiet ut si cum sit
+a
+denegatum
+b
+negetur, cum nega­ bitur c,affirmeturd,ut si sit
+a
+quidem irrationale,
+b
+sanum,
+c
+inanimatum,
+d
+aegrum, irrationale qui. dem si non sit, non est inanimatum, sanum etiam atque segrumsiraul esse non possunt,et qui sanum negaverit ægrum necesse est affirmet,itemque e di­ verso ; est igitur ut si negato irrationabili negetur sanum,negato inanimato aegrum ponatur. Sexta de­ cima propositio est quae his terminis constat, ut
+a
+quidem præter i:,at vero
+d
+praeter
+b
+esse non possit,
+a
+vero cum
+b,
+et
+c
+cum
+d,
+esse nullo modo queant. Evenitigitur ut si
+a
+quidem negato,negabitur b,rle­ negatoc terminus dabnuatur,utsi sit a ananimatum,
+b
+artifex,
+c
+invitale,
+d
+medicus ; inanimatum igitur
+praeter invitale et medicus praeterartificem esse non potest, inanimatum vero cum artifice et invitale cum medico esse non poterit.Si igitur, negato inanimato negetur artifex, negato invitali negetur medicus. Atque haec quidem ratio propositionum,quarum su­ perius exempla descripsimus,idcircointelligatur as­ sumpta,ut earum natura claresceret, non quo aliter inesse termini esse non possint. Nam, ut superius dictum est, non sufficitquolibet modo jungere ter­ minos,ut fiant hypotheticae propositiones ex duabus conditionalibus conjugatae.Non enim si quis dicat, si cum homo est, animal est, cum dies est, lucet, talem fecerit propositionem quae duabus conditioni-
+bus constet, idcirco quia prior conditio non est se­ cundae causa conditionis, hoc igitur superius posi­ tarum propositionum ratio demonstrat,quemadmo­ dum fit, ut conditionem conditio consequatur. Quae cum ita sint de earum dicendum est syllogismis. Fit igitur ex prima propositione syllogismus hoc modo : si cum est a, est
+b,
+cum sit c, est
+d.
+At­ qui cum sit
+a,
+est
+b,
+cum igitur sit
+c,
+erit
+d
+; vel ita, atqui cum sit c, non est d, cum igitur sita, non est
+b.
+Posse vero hanc esseassumptionem superius descriptapropositionum naturademonstrat.Item ex secunda propositione, si cum est a, est
+b,
+cum sit
+c,
+non est
+d.
+Atqui cum sit
+a,
+est
+b,
+cum igitur sit
+c,
+non est
+d
+; vel ita, atqui cum sit c,est
+d,
+cum igitur sit
+a,
+non est
+b.
+Ex tota, si cum sit
+a,
+est
+b,
+cum
+non sit c, est
+d.
+Atqui cum sit
+a
+est
+b,
+cum igitur non sit c, est
+d
+; vel ita, atqui cum non site, non est d, cumigitursita, non est b. Item ex quarta, si cum sit a, est
+b,
+cum non sit
+c,
+non est
+d.
+Sed cum sit
+a,
+est
+b,
+cum igitur non sit c, non
+d
+; vel ita, atqui cum non sit
+c,
+est
+d,
+cum igitur sit
+a,
+non est
+t.
+Ex quinta propositione fiunt quatuor collectiones, ita namque termini proponuntur, ut utrobique fiat rata conclusio hoc modo : si cum est a, non est b, cum sit c, est
+d.
+A tqui cum sit a, non estb, cum igitur, sit
+c,
+est
+d
+; vel ita, atqui cum sit
+a,
+est
+b,
+cum igitur sit
+c,
+non est
+d
+; vel ita, atqui cum sit
+c,
+non est
+d,
+I cum igitursit
+a,
+est
+b ;
+vel ita, atqui eum sit
+c,
+est
+d,
+cum igitur sit
+a,
+non est
+b.
+Ex sexta, si cum esta, non est 6, cum sit
+c,
+non est
+d.
+Atqui cum sit.
+a,
+non est b, cum igitur sit c ,non est
+d
+; vel ita, atqui cum
+sit c, non est
+d.
+Cum igitur sit
+a,
+est
+b.
+Ex septima item fiunt quatuor syllogismi hoc modo, si cum est a, non est
+b,
+cum non sit
+c,
+est
+d.
+Atqui cum est
+a,
+non estb, cum igitur nonsit c, est d; vel ita, atqui cum sit a, est
+b,
+cum igitur non sit c, non est
+d
+, vel ita, atqui cum non sit c, non est d, cum igitur sit a, est
+b
+; vel ita, atqui cum non sit
+c,
+est
+d,
+cum igitur
+a
+sit, non est
+b.
+Ex octava propositione, si cum est a, non est
+b,
+cum non site, non est
+d.
+Atqui cum sit a, non est
+b,
+cum igitur non sit c,est
+d
+; vel ita, atqui
+cumnonsitc,estd,cum
+igitur site, est
+b.
+Hactenus quidem ex hujusmodi propositionibus, quae
+a
+esse proponebant, atque itacætcros terminos affirmando negandoque variabant, ostendimus quifierent syllo­ gismi.Nunc ex his propositionibus quinam syllogi-
+smi fiantdicendum est,quæitacæteros terminos va­ ria.nt,ut
+a
+quidem non esse proponant.Exnona enim propositione fit syllogismus ita, si cum non est a, 1 est 6, cum sit c, est
+d.
+Atqui cum non sit
+a,
+est
+b,
+cum igitur sit,
+c,
+est
+d
+; vel ita, atqui cum sit
+c,
+non est
+d,
+cum igitur non sit
+a,
+non est
+6.
+Item ex decima, si cum non est a, est b, cum sit c, non est
+d.
+Atqui cum non est
+a,
+est b, cum igitur
+c,
+non est
+d;
+vel ita, atqui cum sit c, est
+d,
+cum igitur non sit a, non est
+b.
+Ex undecima, si cum non est
+a,
+est
+b,
+cum non sit
+c,
+est d. Atqui cum non sit
+a,
+est
+b,
+cum igitur non sit
+c,
+est d; vel ita, at cum non sit c, non est
+d,
+cum igitur non sit a, non est
+b.
+Ex
+duodecima, si cum non sit
+a,
+est
+b,
+cum non sit
+c,
+non est d,atqui cum non sit a,est b, cum igitur non eit
+c,
+non est d;vel ita, atqui cum non sit c, est
+d,
+cum igitur non sit
+a,
+non est
+b.
+Ex tertia decima, quae quatuor colligit syllogismos hoc modo : si cum non est
+a,
+non est b,!:cum sit
+c,
+est
+d.
+Atqui cum non sit
+a,
+non est
+b,
+cum sit
+c,
+est d; vel ita, atqui cum non sit a.est
+b,
+cum igitur c, non est
+d
+; vel ita,atqui cum sit c, est d,cum igiturnon sit a, non est
+6;
+vel iLa,atqui cum sit
+c,
+non est
+d,
+cum igitur non sit a,est b.ltem ex quarta decima, si cum non est
+a,
+non est
+b,
+cum sit
+c,
+non est
+d.
+Atqui cum non est a,non est b,cum igitur sit
+c,
+non est d; vel ita,atquicum sit c,est d,cum igitur non sit
+a,
+est
+b.
+Quinta decima rursus quatuor colligit syllogismos,
+hoc modo: si cum non est a,non est 6, cum non sit
+c,
+est d.Atqui cum non sit a, non est b, cum igitur non sit
+e,
+est
+d;
+vel ita, atqui cum non sit
+a,
+est
+b,
+cum igitur non sit c,est d;vel ita, atqui cum non sit
+c,
+non est
+d,
+cum igitur non sit,
+a,
+est
+c
+; vel ita, atqui cum non sit c,est d,cum igitur non sit
+a,
+non est
+b.
+Ex sexta decima propositione;si cum non sit a,non est
+b,
+cum non
+c,
+non est
+d.
+Atqui cum non sit a, non est b, cum igitur ron sit c, non est d; vel ita atqui cum non sit
+c,
+est
+d.
+Cum igitur non sit
+a,
+est
+b.Ex
+quibus omnibus quadragintaconclusiones fiunt.Sedecim quidem assumpta prima conditione, ita utin prima propositione est posita.Sedecim vero assumpta secunda conditionecontrario modo atque in propositione est collocata. Octo vero ex quinta, septima,tertia decima et quinta decima propositio­ nibus fiunt assumptisprimisquidem conditionibus contrario modo,atquein propositione proferebantur secundis vero conditionibus eodem modo assumptis,
+ut in propositione fuerant collocatæ. Ut igitur om­ nium propositionumconclusionumque ratio clares­ cat,omnes hujusmodi enuntiationes cum propriis proposuimus exemplis.
+Si cum sit
+a
+homo, est
+b
+medicus, cum sit
+c
+animatum, est
+d
+artifex.
+Si cum sit
+a
+homo, est
+b
+niger, cum sit c animatus, non est
+d
+albus.
+Si cum sit
+a
+animatum, est
+b
+medicus, cum non sit
+c
+inanimatum, est
+d
+artifex.
+Si cum sit a homo, est b niger, cum non sit v inanimatus, non est
+d
+albus.
+Si cum sit
+a
+homo, non est
+b
+aeger, cum sit
+c
+animatus, est
+d
+sanus.
+Si cum sit
+a
+homo, non est
+b
+artifex, cum sit
+c
+animatus,non est
+d
+medicus.
+Si cum sit
+a
+animal, non est
+b
+sanus, cum non sit
+c
+inanimatum, est
+d
+aegrum.
+Si cum sit
+a
+animatum, non est
+b
+artifex, cum non sit
+c
+inanimatum, non est
+d
+medicus.
+Si cum non sit
+a
+iDanirnatum, est
+b
+medicus, cum sit
+c
+animatum, est
+d
+artifex.
+Si cum non sit
+a
+inanimatum, est
+b
+niger, cum sit
+c
+inanimatum, non est
+d
+album.
+Si cum non sit
+a
+inanimatum, est
+b
+medicus, cum non sit
+c
+invitale, est
+d
+artifex.
+Si cum non sit
+a
+inanimatum, est
+b
+album, cum sit
+c
+invitale, non est
+d
+nigrum.
+Si cum non sit
+a
+irrationale, non est
+b
+aegrum, cum sit
+c
+rationale, est
+d
+sanum.
+Si cum non sit
+a
+inanimatum, non est
+b
+artifex, cum sit
+c
+animatum, non est
+d
+medicus.
+Si cum non sit
+a
+irrationale, non est
+b
+sanum, cum non sit
+c
+inanimatum, e3t
+d
+aegrum.
+Si cum non sit
+a
+inanimatum, non est
+b
+artifex, cum non sit c invitale, non est
+d
+modicus.
+Ac de his quidem qui per connexionem fiunthæc dicta sint. Hi vero qui in disjunctione sunt positi illis videntur adjuncti,eorumque modos formasque suscipiunt,quos superius in connexione pusitos ex his propositionibus fieri diximus quae duabus sim­ plicibus j ungerer.tur .Si igitur in disjunctionepropo­ sitarum propositionum adcausarum similitudinem monstravero quae in connexione positae ex simpli­ cibus copulatas sunt, quot modi,qualescunque con­ clusiones sunt in unaquaque illarum, quas per con­ nexionem fiunt propositionum, totetiam in his esse necesse est quae per disjunctionem pronuntiatæ eamdem vim connexionis habere monstratur. Qua­ tuor igitur superius differentias per connexionem enuntiatarum propositionum esse diximus, si ex
+simplicibus propositionibus copularentur,hoc m'odo si est
+a,
+est
+6;
+si non est
+a,
+non est 6, si est
+a
+non est
+b;
+si non est a,est
+b.
+Per disjunctionem quoque propositiones quatuor tenent differentias hoc modo : aut est a, aut est
+b:
+aut non est
+a,
+aut non est b;aut est
+a,
+aut non est 6; aut non est a,aut est
+b.
+Quarum quidem ea quae prima est et proponit,aut est a,aut est b.ln his tantum dici po­ test in quibus aUerum eorum esse necesse est, velut
+in contrariis medietatecarentibus, similisqueest ei propositioni quæ dicit : si non est
+a,
+est
+b.
+Quae enim proponit aut est a, aut est b, id intelligit, nequesimul utraequeesse posse,et si unum non fue­ rit,consequi ut sit alterum. Itaque si non sit
+a,
+erit b,sed haec una est earum propositionum quas in his quae per connexionem fiunt superius numeravimus. Quicunque igitur syllogismi in eapropositionefiunt, qua; est,si non est
+a,
+esl
+b,
+hi etiam in ea faciendi sunt quae per disjunctionem proponetur, ut cum dicimus,aut est a, aut est b. Fiunt igitur in supe­ riore quatuor modis.Quamlibetenimpartem propo­ sitionis assumpseris, sive praecedentem, sive etiam consequentem,sive negativo modo, sive affirmativo, faciet syllogismum.Nam si haec propositio sit,si non
+est
+a,
+est
+b,
+sive non sit It, erit
+b;
+sive sit a,non erit
+b;
+sive non sit
+b,
+erit a; sive sit
+b,
+non erit
+a.
+In propositione quoque disjunctiva idem est. Nam cum dicitur,aut est a,aut est b,siquidem
+a
+fuerit,
+b
+non erit;quod si
+a
+non fuerit, erit
+b;
+et si
+b
+non sit, erit a;si
+b
+non fuerit,non erit a.Id quoque tali declara­ tur exemplo;nam si sit propositio,aut aeger est, aut sanus,qllidquid horum in assumptione assumptum fuerit,vel negatum,altera pars vel affirmabitur, vel
+PATROL. LXIV.
+28
+negabiturhoc modo:Nam si sanus est, non est æger: si non est sanus,est asgerjsi aeger est, non est sanus; si non æger est, est sanus. Item ea propositio dis­ junctiva quae proponit, aut
+a
+non est, aut
+b
+non est, fit quidem de his quae quolibet modo simul esse non possunt, etiamsi non alterum eorum esse necesse sit,similisque est si propositioni con­ nexae per quam ita proponitur, si est
+a,
+non est 6. Quae enim sic enuntiat,aut non est a,aut non est
+b,
+id nimirum sentit, quod si
+a
+sit,
+b
+esse non possit, id ita probabitur.Cum enim proponitur hoc modo, aut non est a, aut non est b,cum si assumaturesse a,non erit
+b.
+Quocirca ei propositioni connexæ si­ milis est quae ita enuntiat, si sit
+a,
+non esse
+b.
+In hac vero propositione, duæ tantum complexiones
+syllogismos procreabant.Nam si esset a, non erat
+b
+et si esset b, non erat
+a.
+Si cum non esset
+a,
+non necesse erat esse vel non esse
+b.
+Sive autem non esset
+b,
+non necesse erat esse vet non esse
+a.
+Quo­ circa et in disjunctiva propositiones totidem syllo­ gismos esse necesse e:-t, totidem vero in collectibi­ les complexiones; nam cum ita proponitur,aut non est a,aut non est
+b,
+ita dicitur, si sit
+a,
+non erit
+b:
+et si sit a,non erit b. Sive autem non sit
+a,
+non ne­ cesse erit esse vel non esse
+b.
+Sive non sit
+b,
+non necesse erit esse vel non esse a,velut in his apparet exemplis. Si enim quis dicat, aut non est album, aut non est nigrum, sed assumat,atqui est album, non erit nigrum; vel rursus, atqui est nigrum,non erit album. Sive album non esse assumpserit, non necesse erit esse vei non esse nigrum; sive nigrum
+non esse assumpserit, ut si vel non sit album, nul­ lam facietnecessitatem.Itemea propositio per quam ita proponitur, aut est a.aut non est b,dicitur qui­ dem de sibimet adhaerentibus proponiturque in his propositionibus quæ de majoribus ad minora ten­ dunt, similisque est ei propositioni connexæ quae enuntiat,si non est a, non est b.Nam si quis dicit,
+aut est a,
+aut non
+b,
+si assumat, atqui non est
+a,
+modis omnibus non erit b. Si igitur non sit a, non erit
+b.
+Id enim hsec disjunctio praemittebat, in hao vero siquidem
+a
+negaretur,vel affirmaretur 6,fiebat aliquis syllogismus.Sive autem
+a
+affirmaretur,siveb negaretur,nulla eratin conclusione neeessitas:idem provenit in disjunctiva. Nam cum proponitur, aut esta, aut noniest 6, siquidem non sit a,non erit
+b.
+Si vero sit
+b,
+erit
+a:
+quod si sit
+a,
+vel non sit
+b,
+nihil estnecessarium.ld veroin his terminis appro­ babimur, si quis ita proponat, aut animal est, aut non homo, si igitur animal non sit, non erit homo ; si bomo sit, animal est; sive autern animal sit, non necesse est esse hominem, sive homo non sit, non necesse est animal interire.Ea vero propositio quas dicit,aut non est
+a,
+aut est
+b,
+in his quae adhae­ rent proponi potest,et
+a
+minoribus all majora con­ tendi, et est similis ei propositioni connexæ quæ dicit : si est a, est
+b.
+Namcum itaquis enuntiet,si. quidem assumaturesse a,statim consequitur ut sitb. Bed in hac propositione siquidem affirmaretur esse a, sequebatur ut esset b. Quod si negaretur
+b,
+seque­ batur ut non esset a.Sive autem negaretur a, sive affirmaretur b,nibil necessariumvidebituraccidere.
+Et in ea igitur propositione disjuncta,quaB dicit, aut non est a,aut est b,siquidem fuerit a, erit
+hi
+si non fuerit b, non erita.Sive autem non sit
+a,
+sive sit b, nulla est necessitas syllogis!!li,ut in hoc declaratur exemplo,aut non est homo,aut animalest.Si igitur assumamus,atqui est homo,erit animal.Si negemus esseanimal,non erit homo ; si autem hominem ne­ gemus,vel animal affirmemus,nibil necessarium ca­ det. Quocirca ex his quae superius dicta punt decla­ ratur quot disjunctarum propositionum syllogismi sint, vel quibus ab his quae connexae sunt differen­ tiis segregentur.Quæ enim connexæ sunt quamdam in eo quod est esse vel non esse consequentiam monstrant; quae vero per disjunctionem proponun­ tur ita sunt,ut sibimet consentire non possint. In­ venias quoque per connexionem propositiones,quae
+id intelligi volunt,ut a se nequeant separari,ut cum ita proponimus,si est a, est b.Id nimirum hæc pro­ positiointelligit,quodsi esse potuerit a,statim con- , sequitur ut sit etiam
+b.
+Nulla vero earum quæ in - disjunctione sunt ita proponitur, ut simul esse vi­ deantur. Cum enim dicimus,aut est a,aut
+b
+est,aut eaedem propositiones quolibet alio modo variamus, id aut conjuncto quae disjunctiva ponitur, sentit si­ mul eas esse non posse. Et cum late earum pateat differentia,idcirco nunc de eisdem pauca subjunxi­ mus, quoniam totidem syllogismos fieri dicebamus in his propositionibus quae per disjunctionem fie­ rent quot etiam fuerunt in connexis. Et quoniam de omnibus qui quoquo modo possint fieri hypothe­ ticis syllogismis sufficienter dictum est. Hic operis longitudinem terminemus.

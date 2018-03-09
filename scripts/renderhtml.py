@@ -13,9 +13,9 @@ The converted files will be placed in the directory pointed to in output_dir.
 """
 
 # TODO: Update the following paths
-tei_bin_path = "[update-path]/teic_stylesheets/bin/"
-glob_path = "[update-path]/pgls-data/**/*lat?.xml"
-output_dir = "[update-path]/pgls-data/rendered-html/"
+tei_bin_path = "/Users/sjhuskey/Development/TEIC/Stylesheets/bin/"
+glob_path = "/Users/sjhuskey/Development/TEIC/pgls-texts/**/*lat?.xml"
+output_dir = "/Users/sjhuskey/Development/TEIC/pgls-texts/rendered-html/"
 
 if not exists(output_dir):
     print("Output directory needs to be created first!")
